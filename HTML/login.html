@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Login</title>
+    <link rel="stylesheet" href="/lr.css">
+</head>
+<body>
+    <header>
+        <div class="navbar header-container">
+            <img src="/Images/police_logo-removebg-preview.png" alt="Police Logo" class="logo">
+            <h1>FIR Generation System</h1>
+        </div>
+    </header>
+    <div class="login-container">
+        <h2>User Login</h2>
+        <form onsubmit="return validateLogin()">
+            <div class="input-group">
+                <label for="username">Username</label>
+                <input type="text" id="username" placeholder="Enter your username" required oninput="validateUsername()">
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Enter your password" required oninput="validatePassword()">
+            </div>
+            <div>
+                <input type="checkbox" id="check" onclick="togglePassword()"> Show Password
+           </div>
+           <div class="input-group">
+            <label for="captcha">Captcha</label>
+            <input type="text" id="captcha" name="captcha" placeholder="Enter the captcha" required>
+            </div>
+            <!--<div class="input-group"> -->
+                <!-- <span id="captchaText">AB12X</span> -->
+                <!-- Replace this with dynamic CAPTCHA generation   -->
+                 <h3 id="captchaText"></h3>
+                 <button class="btn2" onclick="generateCaptcha()"><h2>🔁</h2></button>
+           
+           <div class="input-group">
+            <button type="submit" >Login</button>
+            <p class="register-link">Don't have an account? <a href="/register.html" class="register">Register here</a></p>
+            </div>
+        </form>
+    </div>
+    <script>
+        function togglePassword() {
+            var passwordField = document.getElementById("password");
+            passwordField.type = passwordField.type === "password" ? "text" : "password";
+        }
+        function generateCaptcha() {
+            
+            const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvwxyz!@#$%*?';
+            let captcha = '';
+            for (let i = 0; i < 7; i++) {
+                captcha += chars.charAt(Math.floor(Math.random() * chars.length));
+            }
+            document.getElementById('captchaText').innerText = captcha;
+        }
+        
+        window.onload = generateCaptcha;
+
+        function validateUsername() {
+            const username = document.getElementById('username');
+            const usernameRegex = /^[a-zA-Z0-9._]+$/;
+            if (!usernameRegex.test(username.value)) {
+                
+                username.setCustomValidity("Username can only contain letters, numbers, dots, and underscores.");
+            } 
+            else {
+                username.setCustomValidity(""); 
+                }
+        }
+        function validatePassword() {
+            const password = document.getElementById('password');
+            const passwordRegex = /^[a-zA-Z0-9._]+$/; 
+            if (!passwordRegex.test(password.value)) {
+                password.setCustomValidity("Password can only contain letters, numbers, dots, and underscores.");
+            } else {
+                password.setCustomValidity(""); 
+                  }
+        }
+        function validateLogin() {
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            var enteredCaptcha = document.getElementById("captcha").value;
+            var generatedCaptcha = document.getElementById("captchaText").innerText;
+
+            if (username === "" || password === "") {
+                alert("Please enter both username and password.");
+                return false;
+            }
+            if (enteredCaptcha !== generatedCaptcha) {
+                alert("Captcha does not match. Please try again.");
+                return false;
+            }
+
+
+            alert("Login successful! Redirecting...");
+            window.location.href = "/prompt.html"; 
+            return false; 
+        }
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,4386 @@
+{
+  "FIR Records": [
+    {
+      "Date": "03-01-2020",
+      "Complainant_details": {
+        "Name": "Sathayakumar",
+        "Address": "Melatheru,Devanur,Andimadam(TK),Ariyalur(DT)",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "03-01-2020 03:15 Hrs ",
+        "Location": "Andimadam, Annasilai",
+        "Incident_name": "Body Release",
+        "description": "My father, aged 57, has passed away, and his body is in the mortuary—please take immediate action for its release.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Malarazhagan N",
+        "Rank": "Sub Inspector",
+        "IPC_section": "154 Cr.P.C",
+        "District": "Ariyalur",
+        "Police_station": "Andimadam"
+      }
+    },
+    {
+      "FIR.No": "02/2021",
+      "Date": "01-01-2021",
+      "Complainant_details": {
+        "Name": "Govindasamy",
+        "Address": "Sub-Inspector of police -497,Ariyalur PS",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Ganapathi",
+        "Address": "Sadayappar Street,Ariyalur(TK),Ariyalur(DT)",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "01-01-2021 15:15 Hrs",
+        "Location": "PettyShop neraBy Rilway gate, Ariyalur",
+        "Incident_name": "Illegal Liquor Sale Case",
+        "description": "Ariyalur police Govindasamy arrested a man for illegally selling government liquor and seized the evidence.",
+        "Witnesses": "Govindasamy"
+      },
+      "Investigating_officer": {
+        "Name": "Govindasamy",
+        "Rank": "Sub Inspector",
+        "IPC_section": "154 Cr.P.C",
+        "District": "Ariyalur",
+        "Police_station": "Ariyalur"
+      }
+    },
+    {
+      "FIR.No": "10/2022",
+      "Date": "24-02-2022",
+      "Complainant_details": {
+        "Name": "Jayapriya",
+        "Address": "Anna Nagar Colony Theru,Thelur -Po,Ariyalur-DT",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Prabhakaran",
+        "Address": "Arppavur puthu theru, korada cheery kudavasal-TK,Thiruvavur-DT",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "unknown",
+        "Location": "Thelur village,Anna nagar colony,Ariyalur",
+        "Incident_name": "Cheating and Threat Case.",
+        "description": "Ariyalur police booked Prabhakaran for cheating, abuse, and threats against Jayapriya.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Kanniyammal P",
+        "Rank": "Sub Inspector",
+        "IPC_section": "417,294(b),506(2)",
+        "District": "Ariyalur",
+        "Police_station": "AWPS-Ariyalur"
+      }
+    },
+    {
+      "FIR.No": "10/2018",
+      "Date": "17-01-2018",
+      "Complainant_details": {
+        "Name": "Rajesh Kanna P",
+        "Address": "Sub-Inspector of police,Aliyar PS",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Vikneshearan[vicky]",
+        "Address": "9,Athupura Colony,Aliyar",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "17-01-2018",
+        "Location": "Axis Bank front nearby Aliyar AarivuThirukovil,Aliyar",
+        "Incident_name": "Night Patrol Suspicious Arrest Case",
+        "description": "A suspect with a prior theft case was arrested near an ATM in Azhiyar during a night patrol for suspicious behavior.",
+        "Witnesses": "Rajesh Kanna"
+      },
+      "Investigating_officer": {
+        "Name": "Rajesh Kanna P",
+        "Rank": "Sub Inspector",
+        "IPC_section": "IPC 109",
+        "District": "Comibatore",
+        "Police_station": "Aliyar"
+      }
+    },
+    {
+      "FIR.No": "24/2020",
+      "Date": "24-01-2020",
+      "Complainant_details": {
+        "Name": "Vengatesan",
+        "Address": "No.40,Mariamman kovil street,pulipura kovil village,Mdhratakam TK,Chengalpattu DT",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "23-01-2020 17:30 Hrs",
+        "Location": "13th North street,Anaicut,Chengalpattu",
+        "Incident_name": "Suspected Suicide Case of Asok Kumar",
+        
+        "description": "G10 Anaikattu police registered a case on Asok Kumar’s suspected suicide by hanging.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Vijayakumar",
+        "Rank": "Sub Inspector",
+        "IPC_section": "IPC 174",
+        "District": "Chengalpattu",
+        "Police_station": "Anaicut"
+      }
+    },
+    {
+      "FIR.No": "67/2017",
+      "Date": "26-05-2023",
+      "Complainant_details": {
+        "Name": "Subakumar",
+        "Address": "133,South street, South Elaiyammuthoor",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Murugan",
+        "Address": "Middle street,Shenkulam",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "25-05-2023 15:30  Hrs",
+        "Location": "Opposite VVM water company near Marudhkulam exit, On Tirunelveli to Nagercoil NH Road",
+        "Incident_name": "Tipper Lorry Road Accident Case",
+        "description": "Road accident case with a tipper lorry registered at Moondradaippu PS on 26.05.2023.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Arun Bellarmin Raja S",
+        "Rank": "GR I PC",
+        "IPC_section": "IPC 279,337",
+        "District": "Tirunelveli",
+        "Police_station": "Moondardaippu"
+      }
+    },
+    {
+      "FIR.No": "32/2024",
+      "Date": "29-01-2024",
+      "Complainant_details": {
+        "Name": "Muragaraja",
+        "Address": "Sun-Inspector of ploice,Elumalai PS",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Sasikumar",
+        "Address": "East street,Kodanginayakkanpatti,Usilampatti TK,Madurai DT",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "29-01-2024 6:30 Hrs",
+        "Location": "Infront of the crematorium,east of kondangi Nayakkanpatti",
+        "Incident_name": "Ganja Seizure Case",
+        "description": "Ganja seizure case registered under NDPS Act, suspect arrested.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Selvam",
+        "Rank": "Inspector ",
+        "IPC_section": "IPC 8(c),20(b)(ii)(B),25",
+        "District": "Madurai",
+        "Police_station": "Elumalai"
+      }
+    },
+    {
+      "FIR.No": "15/2022",
+      "Date": "13-01-2022",
+      "Complainant_details": {
+        "Name": "Madesan S",
+        "Address": "Sun-Inspector of Police,Thoppur PS",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Durai",
+        "Address": "Jarugu village,nallampatti TK,Dharmapuri DT",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "13-01-2022 15:00 Hrs",
+        "Location": "Near the house of Enemy Durai in jarugu village",
+        "Incident_name": "Illegal Liquor Possession Case",
+        "description": "Illegal liquor possession case (Cr.No. 15/2022) registered at Thoppur PS under TNP Act; accused arrested, liquor bottles seized and destroyed",
+        "Witnesses": "Madesan"
+      },
+      "Investigating_officer": {
+        "Name": "Madesan S",
+        "Rank": "Sub-Inspector Of Police",
+        "IPC_section": "IPC 49(1)(a)",
+        "District": "Dharmapuri",
+        "Police_station": "Thoppur"
+      }
+    },
+    {
+      "FIR.No": "38/2017",
+      "Date": "21-01-2017",
+      "Complainant_details": {
+        "Name": "Parameswaran",
+        "Address": "Sub-Inspector of police-281,Lalapet PS",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Raja & Manickasundhram",
+        "Address": "KunnudaiyanGoundampatti,Keeranur Po,Kadavur TK,Karur DT",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "21-01-2017 16:00 Hrs",
+        "Location": "Pancpatti shop,karur",
+        "Incident_name": "Public Obscenity Case",
+        "description": "Case (Cr.No. 38/17) registered at Lalapettai PS under 294(B) IPC for public obscenity; accused arrested.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Parameswaran",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "294(b)",
+        "District": "karur",
+        "Police_station": "Lalapet"
+      }
+    },
+    {
+      "FIR.No": "08/2025",
+      "Date": "04-01-2025",
+      "Complainant_details": {
+        "Name": "Parvin Nisha",
+        "Address": "13A,Rashak Road,Edalakudi,Nagercoil,kottar",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Rasitha Begam,Mumthaj,Sabiya Begam",
+        "Address": "Rajapathi Elankadai,Kathar Hospital vetha nagar,neduntheru",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "31-12-2024 18:30 Hrs",
+        "Location": " Near veppamaram,ilagadai,rajapathi street",
+        "Incident_name": "Property Dispute Assault Case",
+        "description": "A case was registered at Kottar Police Station (Cr.No. 08/2025) under BNS Act sections 296(b), 115(2), and 351(2) regarding an assault over a property dispute",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Sathiya Soban E",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "296(b),115(2),351(2)",
+        "District": "Kaniyakuamri",
+        "Police_station": "Kottar"
+      }
+    },
+    {
+      "FIR.No": "56/2023",
+      "Date": "26-02-2023",
+      "Complainant_details": {
+        "Name": "Ranjinkath B",
+        "Address": "Inspector of Police,Attur PS",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Mohammed Iqbal",
+        "Address": "4th cross vivekanadha nagar,karaikkal road,kumbakonam",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "26-02-2023 15:00 Hrs",
+        "Location": "Athur Rural Police Station, Charakam Kothambadi, Kaimanam Thapa Hotel",
+        "Incident_name": "Unauthorized Alcohol Consumption Case",
+        "description": "A case (Cr.No. 56/2023) was registered at Athur Rural Police Station under Section 4(1)(k) of the TNP Act for unauthorized alcohol consumption at a hotel, and the accused was arrested.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Ranjikath B",
+        "Rank": "Inspector",
+        "IPC_section": "4(1)(k)",
+        "District": "Salem",
+        "Police_station": "Attur"
+      }
+    },
+    {
+      "FIR.No": "56/2022",
+      "Date": "09-04-2022",
+      "Complainant_details": {
+        "Name": "S. Mohan",
+        "Address": "Avloor Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Manickam",
+        "Address": "117 D, Arakkonam Road, Ayyarpadi Village, Nemili Taluk, Ranipet District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "09-04-2022 17:30",
+        "Location": "Ayyarpadi Village",
+        "Incident_name": "Illegal sale of tobacco products near an educational institution",
+        "description": "The accused was found selling 10 HANS tobacco packets within 100 meters of an educational institution, violating the Tobacco Act. Upon questioning, he admitted his offense. The accused was arrested at 17:45, and the seized tobacco packets were documented at 18:00. The case was registered at Avloor Police Station under FIR No. 56/2022 U/S 6 (b) 24 (1) of the Tobacco Act. The accused was presented for medical examination and handed over to police custody.",
+        "Witnesses": "Police officers present at the scene"
+      },
+      "Investigating_officer": {
+        "Name": "S. Mohan",
+        "Rank": "Assistant Sub-Inspector",
+        "IPC_section": "6 (b) 24 (1) of TOBACCO ACT",
+        "District": "Ranipet",
+        "Police_station": "Avloor Police Station"
+      }
+    },
+    {
+      "FIR.No": "34/2019",
+      "Date": "12-03-2019",
+      "Complainant_details": {
+        "Name": "K. Thiruppathi",
+        "Address": "South Street, Kuthiluppai (PO), Markkampatti (Via), Oddanchatram (T.K)",
+        "Contact_number": "9442350545"
+      },
+      "Accused_details": {
+        "Name": "Rajapandi alias Muthupandi",
+        "Address": "Thirukampatti, Marampadi (P.O), Vedasandur (T.K)",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "12-03-2019 12:30",
+        "Location": "Complainant's residence, Kuthiluppai",
+        "Incident_name": "House break-in and theft",
+        "description": "The complainant and his family left their house at 9:00 AM for farming. Upon returning at 12:30 PM, they found the main door broken and their wardrobe ransacked. Rs. 2,000 was stolen from the complainant's coat pocket. Upon investigating, they found a person hiding inside the bathroom. When confronted, the accused attempted to escape but fell on the road, injuring himself. The stolen money was recovered from his pocket. The accused was taken to Oddanchatram Government Hospital and later shifted to Dindigul Government Hospital for further treatment.",
+        "Witnesses": [
+          "Complainant's wife - Tamilarasi",
+          "P. Aruljothi",
+          "Muthukrishnan S/O P. Palanichami Gounder",
+          "K. Paramaguru S/O Kaliappa Gounder"
+        ]
+      },
+      "Investigating_officer": {
+        "Name": "C. Sundaravadivel",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "454, 380 IPC",
+        "District": "Dindigul",
+        "Police_station": "Ambilikai Police Station"
+      }
+    },
+    {
+      "FIR.No": "10/2017",
+      "Date": "06-01-2017",
+      "Complainant_details": {
+        "Name": "unknown",
+        "Address": "Pallipalayam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "06-01-2017 03:00",
+        "Location": "Near Ayyangar Bakery, Pallipalayam 4 Road",
+        "Incident_name": "Suspicious activity and detention",
+        "description": "Police officers found an unknown person sitting in the dark, covered and talking suspiciously. Upon noticing the police, the individual attempted to flee but was captured. Initially, the person provided inconsistent addresses before revealing the correct one. Due to suspicion of potential criminal intent, the person was detained at 03:30 AM and taken to the police station for further inquiry. The case was registered under FIR No. 10/2017 U/S 41(1) CRPC.",
+        "Witnesses": "Police team present at the scene"
+      },
+      "Investigating_officer": {
+        "Name": "unknown",
+        "Rank": "Assistant Sub-Inspector",
+        "IPC_section": "41(1) CRPC",
+        "District": "Namakkal",
+        "Police_station": "Pallipalayam Police Station"
+      }
+    },
+    {
+      "FIR.No": "78/2021",
+      "Date": "25-01-2021",
+      "Complainant_details": {
+        "Name": "R. Natarajan",
+        "Address": "Aandikattu Thottam, Melkaraipatti, Palani-T.K, Dindigul-DT",
+        "Contact_number": "9942930184"
+      },
+      "Accused_details": {
+        "Name": "Prabhakaran",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "23-01-2021 02:30",
+        "Location": "Dharapuram to Alangiyam Road, near Alangiyam Roundabout",
+        "Incident_name": "Road Accident",
+        "description": "A Bolero vehicle driven rashly collided with the complainant's brother's Honda Activa, causing injuries.",
+        "Witnesses": "Ragupathi, Periyasamy"
+      },
+      "Investigating_officer": {
+        "Name": "A. Suresh",
+        "Rank": "First-Grade Constable",
+        "IPC_section": "279, 337 IPC",
+        "District": "Tiruppur",
+        "Police_station": "Dharapuram Police Station"
+      }
+    },
+    {
+      "FIR.No": "25/2023",
+      "Date": "01-03-2023",
+      "Complainant_details": {
+        "Name": "Paulraj",
+        "Address": "PCN Bhavan, Kanjampuram (PO)",
+        "Contact_number": "9443142299"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Incident_name": "Woman Missing",
+        "Date_Time": "01-03-2023 14:30",
+        "Location": "Home, Kanjampuram",
+        "Witnesses": null,
+        "description": "The complainant's daughter left home without informing anyone and has been missing since 2:30 PM."
+      },
+      "Investigating_officer": {
+        "Name": "S. Gnanasigamani",
+        "Rank": "Sub-Inspector",
+        "Police_station": "Nithiravilai Police Station",
+        "IPC_section": "Woman Missing",
+        "Date_Time_Registered": "01-03-2023 20:00"
+      }
+    },
+    {
+      "FIR.No": "51/2019",
+      "Date": "10-02-2019",
+      "Complainant_details": {
+        "Name": "Perumal",
+        "Address": "Anna College Post, Thottiyapatti Village, Musiri Taluk, Tiruchirappalli District",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Kannan",
+        "Address": "Panayapatti, Thirumayam Taluk, Pudukkottai District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "10-02-2019 13:00",
+        "Location": "Sathasivam Pillai Thottam, Musiri Road",
+        "Incident_name": "Road Accident",
+        "description": "A speeding lorry (TN 28 M 9923) driven negligently collided with the complainant's two-wheeler, resulting in the death of his son and injuries to the complainant.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "T. Jayachitra",
+        "Rank": "Inspector of Police",
+        "IPC_section": "279, 337, 304(A) IPC",
+        "District": "Tiruchirappalli",
+        "Police_station": "Musiri Police Station"
+      }
+    },
+    {
+      "FIR.No": "90/2021",
+      "Date": "25-04-2021",
+      "Complainant_details": {
+        "Name": "R. Manikkaraj",
+        "Address": "Aathur Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Gopal",
+        "Address": "101, Kumarapannaiyur, Selvanpudiyanur",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "25-04-2021 09:00",
+        "Location": "Near Kumarapannaiyur School",
+        "Incident_name": "Illegal Liquor Sale",
+        "description": "The accused was found in possession of 8 bottles of Express Special Brandy (180 ML each) and was illegally selling liquor before TASMAC store opening hours for a higher price.",
+        "Witnesses": "Police party (Officers present)"
+      },
+      "Investigating_officer": {
+        "Name": "R. Manikkaraj",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "4(1)(a), 4(1)(l) TNP Act",
+        "District": "Aathur",
+        "Police_station": "Aathur Police Station"
+      }
+    },
+    {
+      "FIR.No": "11/2017",
+      "Date": "07-01-2017",
+      "Complainant_details": {
+        "Name": "Rajendran",
+        "Address": "Arani Rural Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "07-01-2017 04:00",
+        "Location": "Irumbedu Junction, Arani to Arcot Road",
+        "Incident_name": "Suspicious Activity",
+        "description": "Two individuals were found hiding in the dark and provided inconsistent information about their identity and presence at the location. Suspecting possible criminal intent, they were arrested.",
+        "Witnesses": "Police Party"
+      },
+      "Investigating_officer": {
+        "Name": "Rajendran",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "41(1) Cr. PC",
+        "District": "Tiruvannamalai",
+        "Police_station": "Arani Rural Police Station"
+      }
+    },
+    {
+      "FIR.No": "12/2018",
+      "Date": "18-03-2018",
+      "Complainant_details": {
+        "Name": "Sathasivam",
+        "Address": "Melakalani Street, Harithuvaramangalam",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Gopi, Sabarinathan, Saravanan, Ajith, Arun, Mahendran, and others",
+        "Address": "Harithuvaramangalam",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-03-2018 15:00",
+        "Location": "Near Muthumariamman Temple, Harithuvaramangalam",
+        "Incident_name": "Caste-based Attack",
+        "description": "While the complainant's son Vijay and his friends were carrying a Kavadi near the temple, the accused attacked them with sticks and bottles, causing injuries to Vijay and Surya. The victims received medical treatment at Harithuvaramangalam Government Hospital.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Sasikala",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "147, 148 IPC, 3(i)(za)c, 3(i)(zb) r/w 3(2)(Va) SC/ST (POA) Amendment Act 2015",
+        "District": "Tiruvarur",
+        "Police_station": "Harithuvaramangalam Police Station"
+      }
+    },
+    {
+      "FIR.No": "13/2019",
+      "Date": "07-01-2019",
+      "Complainant_details": {
+        "Name": "Special Sub-Inspector Babu",
+        "Address": "Kee.V.Kuppam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Venkatesan",
+        "Age": "37",
+        "Father's_Name": "Ramachandran",
+        "Address": "Kollaimeedu, Murukkampattu Village",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "07-01-2019 14:15",
+        "Location": "Murukkampattu Village, Kee.V.Kuppam Police Station Limits",
+        "Incident_name": "Illegal Liquor Sale",
+        "description": "The accused was found selling liquor illegally behind his house. A search at the scene led to the seizure of five bottles of HONIEY DAY BRANDY (180 ML each). The liquor was destroyed on-site as per police procedures.",
+        "Witnesses": "None available"
+      },
+      "Investigating_officer": {
+        "Name": "Babu",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "4(1)(K) TNP Act",
+        "District": "Vellore",
+        "Police_station": "Kee.V.Kuppam Police Station"
+      }
+    },
+    {
+      "FIR.No": "16/2020",
+      "Date": "24-01-2020",
+      "Complainant_details": {
+        "Name": "Nandhini",
+        "Age": "34",
+        "Father's_Name": "Rajasekar",
+        "Address": "Mariamman Kovil Street, Pottireddipatti, Namakkal District",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Arun",
+          "Father's_Name": "Periyanayagam"
+        },
+        {
+          "Name": "Silambu",
+          "Father's_Name": "Periyanayagam"
+        },
+        {
+          "Name": "Dinesh",
+          "Father's_Name": "Balu"
+        },
+        {
+          "Name": "Aandal",
+          "Father's_Name": "Periyanayagam"
+        },
+        {
+          "Name": "Roja",
+          "Father's_Name": "Dinesh"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "20-01-2020 17:00",
+        "Location": "Near the complainant’s house, Mampazhapattu village",
+        "Incident_name": "Physical Assault and Threat",
+        "description": "The complainant and her sister were returning home after attending a funeral when the accused engaged in a verbal altercation with her father. When the complainant intervened, the accused verbally abused her, physically assaulted her using sticks and iron rods, and threatened to kill her if she returned to Mampazhapattu. She sustained injuries and received treatment at Villupuram hospital.",
+        "Witnesses": "Unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Unknown",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "147, 294(b), 324, 506(ii) IPC",
+        "District": "Villupuram",
+        "Police_station": "Kaanai Police Station"
+      }
+    },
+    {
+      "FIR.No": "20/2020",
+      "Date": "26-03-2020",
+      "Complainant_details": {
+        "Name": "Ajithkumar",
+        "Age": "23",
+        "Father's_Name": "Arivalagan",
+        "Address": "Chinna Manikkam Pangu, Kaliyamman Kovil Street, Tharangambadi Taluk",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Ajithkumar",
+          "Father's_Name": "Arivalagan"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "26-03-2020 12:30",
+        "Location": "Tharumakulam Kadaiveethi",
+        "Incident_name": "Violation of COVID-19 Lockdown",
+        "description": "During a patrol enforcing the COVID-19 lockdown imposed by the Tamil Nadu government from 24-03-2020 midnight for 21 days, the accused was found roaming in a public place in a Maruti Alto car (PY-02-S-2175) without a valid reason. Despite government orders restricting public movement, he failed to comply and was arrested at 12:45 PM.",
+        "Witnesses": "Unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Natarajan",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "188 IPC",
+        "District": "Mayiladuthurai",
+        "Police_station": "Poompuhar Police Station"
+      }
+    },
+    {
+      "FIR.No": "21/2021",
+      "Date": "28-01-2021",
+      "Complainant_details": {
+        "Name": "Karunakaran",
+        "Address": "Jolarpet Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Viktor alias Mathayan",
+          "Father's_Name": "Ravi",
+          "Address": "Vakkanampatti",
+          "Status": "Absconding"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "28-01-2021 11:30",
+        "Location": "Kanna Lodge, Jolarpet Junction, New Hotel Street",
+        "Incident_name": "Illegal possession of illicit liquor",
+        "description": "During surveillance related to prohibition enforcement, the accused was found carrying a polythene bag containing 250 packets of LEGACY XXX RUM (90ML) with a Karnataka seal. Upon opening two packets, a strong toxic odor was detected, raising suspicion of adulteration. The accused dropped the bag and fled, evading arrest. The illicit liquor was seized in the presence of police witnesses at 12:15 PM, and a case was registered.",
+        "Witnesses": "Police officers present at the scene"
+      },
+      "Investigating_officer": {
+        "Name": "Karunakaran",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "4(1)(a), 4(1-A)(ii) TNP Act",
+        "District": "Tirupattur",
+        "Police_station": "Jolarpet Police Station"
+      }
+    },
+    {
+      "FIR.No": "25/2022",
+      "Date": "18-01-2022",
+      "Complainant_details": {
+        "Name": "R. Sakthivel",
+        "Age": "28",
+        "Father's_Name": "Rajendran",
+        "Address": "Anna Nagar Colony, Arumbavur, Perambalur District",
+        "Contact_number": "8610070908"
+      },
+      "Accused_details": [
+        {
+          "Name": "Unknown",
+          "Father's_Name": "Unknown",
+          "Address": "Unknown",
+          "Status": "Absconding"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "17-01-2022 21:30",
+        "Location": "In front of Panchayat Union Primary School, Anna Nagar Colony, Arumbavur",
+        "Incident_name": "Vehicle Theft",
+        "description": "The complainant parked his two-wheeler (TN 31 AC 3251 XL Heavy Duty) in front of the Panchayat Union Primary School in Anna Nagar Colony at 9:30 PM on 17-01-2022. When he returned at 6:00 AM on 18-01-2022, the vehicle was missing. A case was registered based on the complaint.",
+        "Witnesses": "None mentioned"
+      },
+      "Investigating_officer": {
+        "Name": "G. Chandrasekaran",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "379 IPC",
+        "District": "Perambalur",
+        "Police_station": "Arumbavur Police Station"
+      }
+    },
+    {
+      "FIR.No": "18/2018",
+      "Date": "15-01-2018",
+      "Complainant_details": {
+        "Name": "N. Muthupandi",
+        "Rank": "Sub-Inspector",
+        "Police_station": "Chinnamanur Police Station",
+        "District": "Theni"
+      },
+      "Accused_details": [
+        {
+          "Name": "Udhayakumar",
+          "Age": "41",
+          "Father's_Name": "Kurumban",
+          "Address": "Sokkanathapuram, Chinnamanur",
+          "Status": "Arrested"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "15-01-2018 12:00",
+        "Location": "Near Water Tank, Krishna Iyer School, Chinnamanur",
+        "Incident_name": "Illegal Liquor Possession",
+        "description": "The accused was found illegally possessing 8 bottles of liquor (180ml each, labeled BLACK PEARL BRANDY) without government approval. When questioned, he admitted to keeping the bottles for sale. He attempted to flee but was apprehended by the police team. The liquor bottles were seized in the presence of official witnesses.",
+        "Witnesses": ["Gr I 1682 Nallathambi", "PC 2274 Sivamoorthy"]
+      },
+      "Investigating_officer": {
+        "Name": "N. Muthupandi",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "4(1)(a) TNP Act",
+        "District": "Theni",
+        "Police_station": "Chinnamanur Police Station"
+      }
+    },
+    {
+      "FIR.No": "33/2024",
+      "Date": "26-03-2024",
+      "Complainant_details": {
+        "Name": "Avvaiyar Selvi",
+        "Age": "40",
+        "Father's_Name": "Palavesam",
+        "Address": "4-4-65, Alagu Nachiyamman Kovil Street, Ayikudi",
+        "Mobile": "9600427915"
+      },
+      "Accused_details": "Unknown",
+      "Incident_details": {
+        "Date_time": "25-03-2024 22:30 to 26-03-2024 08:45",
+        "Location": "House of the deceased, Ayikudi",
+        "Incident_name": "Suicide by Poisoning",
+        "description": "The deceased, Palavesam, consumed poison and was found dead by his father, Paramasivan, at 08:45 AM on 26-03-2024. The complainant, Avvaiyar Selvi, mentioned that the deceased was addicted to alcohol and was mentally disturbed due to financial stress and lack of children. No suspicion regarding the death was raised by the family.",
+        "Witnesses": ["Paramasivan (Father-in-law of complainant)"]
+      },
+      "Investigating_officer": {
+        "Name": "G. Ramamoorthy",
+        "Rank": "Police Constable (Gr I) 1004",
+        "IPC_section": "174 CrPC (Poisoning)",
+        "District": "Tenkasi",
+        "Police_station": "Ayikudi Police Station"
+      }
+    },
+    {
+      "FIR.No": "02/2025",
+      "Date": "01-01-2025",
+      "Complainant_details": {
+        "Name": "S. Arockiyasuganya",
+        "Address": "Valaiyampatti, Kalaiyarkovil, Sivagangai District",
+        "Contact_number": "8610961169"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "26-12-2024 at 16:30 hrs",
+        "Location": "Ulagam Maniyenthal Village, Sivagangai District",
+        "Incident_name": "Verbal abuse and threat with sickle",
+        "description": "The accused, Palraj, tied the complainant's mother's cow near his field and verbally abused and threatened her brother with a sickle. His sister, Silethu, also verbally abused the complainant's brother.",
+        "Witnesses": "Ronika Mary Kanikai"
+      },
+      "Investigating_officer": {
+        "Name": "M. Sivasubbu",
+        "Rank": "SI",
+        "IPC_section": "296(b), 351(3), BNS",
+        "District": "Sivagangai",
+        "Police_station": "Ilayangudi Police Station"
+      }
+    },
+    {
+      "FIR.No": "45/2022",
+      "Date": "17-01-2022",
+      "Complainant_details": {
+        "Name": "Subramaniyan",
+        "Address": "Mettupalayam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Koshal",
+        "Address": "Bihar State, Currently residing in Mettupalayam",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "17-01-2022 03:30 AM",
+        "Location": "Mettupalayam Bus Stand",
+        "Incident_name": "Suspicious Behavior and False Identity",
+        "description": "During a night patrol, police encountered an individual behaving suspiciously at Mettupalayam Bus Stand. Upon questioning, he provided inconsistent details about his identity but later confirmed his name as Koshal (29), from Bihar. Due to suspicion that a crime might occur, he was taken into custody at 03:30 AM and brought to the station at 04:00 AM, where an FIR was registered under Section 41(ii) CrPC.",
+        "Witnesses": "Police Patrol Team"
+      },
+      "Investigating_officer": {
+        "Name": "Subramaniyan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "41(ii) CrPC",
+        "District": "Coimbatore",
+        "Police_station": "Mettupalayam Police Station"
+      }
+    },
+    {
+      "FIR.No": "22/2018",
+      "Date": "15-01-2018",
+      "Complainant_details": {
+        "Name": "S. Shanmugam",
+        "Address": "Chinnasalem Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Sathiyamoorthy",
+        "Address": "South Street, Chinnasalem Village",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "15-01-2018 13:00",
+        "Location": "Chinnasalem Nainarpalayam Road",
+        "Incident_name": "Illegal Liquor Sale",
+        "description": "During a prohibition enforcement patrol in Chinnasalem, police noticed an individual at a roadside petty shop handing over liquor bottles in exchange for money. Upon seeing the police, the suspect attempted to flee but was apprehended. A search revealed 36 bottles of Briharis Brandy, 24 bottles of Golden Choice Brandy, and 6 unsealed bottles emitting a strong, toxic odor, suspected to be adulterated. The suspect lacked legal permission for possession and sale. A total of ₹830 in cash and the liquor bottles were seized at 13:15, sealed, and sent for chemical analysis. The accused was arrested at 13:10 and taken to the station at 14:00, where an FIR was registered under Sections 4(1)(a), 4(1)(h), 4(1)(i) of the Tamil Nadu Prohibition Act.",
+        "Witnesses": "Police Officers Present"
+      },
+      "Investigating_officer": {
+        "Name": "S. Shanmugam",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1)(a), 4(1)(h), 4(1)(i) TNP Act",
+        "District": "Kallakurichi",
+        "Police_station": "Chinnasalem Police Station"
+      }
+    },
+    {
+      "FIR.No": "77/2019",
+      "Date": "01-02-2019",
+      "Complainant_details": {
+        "Name": "Ilanchezhiyan",
+        "Address": "95B, Forest Road, 5th Street, Theni",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Muruganandam",
+          "Age": 56,
+          "Father's_Name": "Adaikalam",
+          "Address": "Kurinji Garden, Kallimandhayam, Oddanchatram Taluk, Dindigul District"
+        },
+        {
+          "Name": "Valarmathi",
+          "Age": 46,
+          "Father's_Name": "Muruganandam",
+          "Address": "Same as above"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "31-01-2019 20:00",
+        "Location": "Oddanchatram Police Station Jurisdiction",
+        "Incident_name": "Forgery and Fraud",
+        "description": "The accused allegedly forged a stamp paper (Rs. 20/-) dated 14-08-2018 and altered the date to 11-03-2018 to deceive the public regarding a land purchase for a temple. The complainant, upon verification with the Oddanchatram stamp vendor, discovered that the original stamp paper was sold to a different individual, proving the forgery. The accused collected funds from the public under false pretenses of purchasing land for the temple. Previous complaints had been filed under Cr.No. 28/17 at Dindigul DCB Police Station, but the case was dropped. Based on new evidence, the complainant approached the authorities again."
+      },
+      "Investigating_officer": {
+        "Name": "K. Bajurudeen",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "406, 420, 464 IPC",
+        "District": "Dindigul",
+        "Police_station": "Oddanchatram Police Station"
+      }
+    },
+    {
+      "FIR.No": "10/2021",
+      "Date": "13-01-2023",
+      "Complainant_details": {
+        "Name": "K. Annadurai",
+        "Address": "Thali Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Ellappa",
+        "Address": "Sanaboganapalli Village, Devakanapalli Post, Denkanikottai Taluk, Krishnagiri District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "13-01-2023, 13:15",
+        "Location": "Thali Bus Stand",
+        "Incident_name": "Public Disturbance and Verbal Abuse",
+        "description": "The accused was using offensive language, shouting vulgar words at the public. Despite being warned, he continued to do so and was subsequently arrested at 13:30. His family was informed, and he was taken to the station at 14:00.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "K. Annadurai",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "294(b) IPC",
+        "District": "Krishnagiri",
+        "Police_station": "Thali Police Station"
+      }
+    },
+    {
+      "FIR.No": "17/2023",
+      "Date": "20-04-2023",
+      "Complainant_details": {
+        "Name": "R. Naveen Kumar",
+        "Address": "N. Chettikuttai Street, Kanchipuram - 631502",
+        "Contact_number": "7639930754"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "20-04-2023, 05:30",
+        "Location": "Near Chennai Airport",
+        "Incident_name": "Unnatural Death Investigation",
+        "description": "The complainant's father, Radhakrishnan (58), a former prepaid taxi driver, was found dead near Chennai Airport. Due to financial struggles and alcohol addiction, he had been staying there occasionally. On 17-04-2023, he left Kanchipuram for Chennai and was later found deceased on 20-04-2023 at 05:30 AM. The complainant identified the body and requested its release for final rites.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "unknown",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "174 CrPC",
+        "District": "Chennai",
+        "Police_station": "S-2 Airport Police Station"
+      }
+    },
+    {
+      "FIR.No": "20/2024",
+      "Date": "14-01-2024",
+      "Complainant_details": {
+        "Name": "T. Muthumeena",
+        "Address": "Ichikulam, Natham, Dindigul District",
+        "Contact_number": "9344613681"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "14-01-2024, 12:00",
+        "Location": "Pattaraavuthar Mantoppu, near Sandanakaruppu Temple, Natham",
+        "Incident_name": "Suicide by Poisoning",
+        "description": "The complainant's father, Radhakrishnan (59), had been experiencing vision issues after a fall two months ago. He had been distressed and expressed suicidal thoughts. On 12-01-2024, he visited his daughter’s house in Natham but left after a short stay. On 14-01-2024, he was found dead near Sandanakaruppu Temple with a MONOMAR pesticide bottle and a Belma cold drink bottle nearby, indicating he consumed poison. The complainant confirmed there were no suspicions regarding the death.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Mu. Dharmar",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "174 CrPC (Poison)",
+        "District": "Dindigul",
+        "Police_station": "Natham Police Station"
+      }
+    },
+    {
+      "FIR.No": "22/2024",
+      "Date": "04-02-2024",
+      "Complainant_details": {
+        "Name": "Prakash",
+        "Address": "Thippeppalli Village, Pookkasakaram Post, Shoolagiri Taluk, Krishnagiri District",
+        "Contact_number": "9344741460"
+      },
+      "Accused_details": {
+        "Name": "Ambrish, S/o Sakarappa",
+        "Address": "Chikkapura Village, Hunagund Taluk, Bagalkot District, Karnataka", 
+        "Vehicle_details": {
+          "Vehicle_type": "Tipper Lorry",
+          "Registration_number": "KA 23 B 0903"
+        }
+      },
+      "Incident_details": {
+        "Date_time": "04-02-2024, 15:00",
+        "Location": "Near Green House, Mugalupalli",
+        "Incident_name": "Road Accident",
+        "description": "The complainant's elder brother, Venkataraj, was riding a TVS Victor GCX (TN 24 T 0601) ahead of him when the accused, driving a tipper lorry (KA 23 B 0903) at high speed, attempted to overtake another vehicle without caution. In doing so, he collided with Venkataraj’s two-wheeler, causing him to fall. Venkataraj sustained injuries to his head, left ear, and left hand. He was taken to Srinivasa Hospital in Bengaluru for treatment. The complainant has requested action against the lorry driver.",
+        "Witnesses": "Murthy (relative) and others"
+      },
+      "Investigating_officer": {
+        "Name": "N. Kannan",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "279, 337 IPC",
+        "District": "Krishnagiri",
+        "Police_station": "Perikai Police Station"
+      }
+    },
+    {
+      "FIR.No": "04/2025",
+      "Date": "03-01-2025",
+      "Complainant_details": {
+        "Name": "Poongkodiraja",
+        "Rank": "Head Constable (HC 2150)",
+        "Police_station": "Chinnalapatti Police Station"
+      },
+      "Accused_details": {
+        "Name": "Kamaraj, S/o Periyasamy",
+        "Age": "57",
+        "Address": "Sekkapatti, Veeriyakkal Kovil Street, Chinnalapatti, Dindigul District"
+      },
+      "Incident_details": {
+        "Date_time": "03-01-2025, 20:30",
+        "Location": "Gajalakshmi Store, opposite Old Police Station, NCC Road, Chinnalapatti",
+        "Incident_name": "Illegal Possession of Banned Tobacco Products",
+        "description": "During an anti-narcotics patrol, police officers found the accused in possession of 10 packets of banned Ganesh tobacco, each weighing 15g, with a total weight of 150g. The accused admitted to storing the tobacco for illegal retail sale without government authorization.",
+        "Seized_items": {
+          "Item": "Ganesh Tobacco Packets",
+          "Quantity": "10 packets (150g total)",
+          "Value": "₹80"
+        }
+      },
+      "Investigating_officer": {
+        "Name": "K. Gomathi",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "6(a) r/w 24(1) Cigarette and Other Tobacco Product Act, 2003",
+        "District": "Dindigul",
+        "Police_station": "Chinnalapatti Police Station"
+      }
+    },
+    {
+      "FIR.No": "11/2025",
+      "Date": "16-01-2025",
+      "Complainant_details": {
+        "Name": "Nataraj",
+        "Age": "36",
+        "Father's_Name": "Rasu",
+        "Address": "Konar Street, Valayur, Manachanallur Taluk, Tiruchirappalli District",
+        "Phone": "8428580582"
+      },
+      "Accused_details": {
+        "Vehicle": "Unidentified Car",
+        "Description": "A speeding and negligent driver in an unidentified car, traveling from Perambalur to Trichy, collided with the complainant's vehicle."
+      },
+      "Incident_details": {
+        "Date_time": "13-01-2025, 14:30",
+        "Location": "NH Road, near Surya Kudil, Padalur",
+        "Incident_name": "Hit-and-Run Accident",
+        "description": "The complainant and his cousin, Ramasamy, were traveling on a Hero Splendor+ (TN 73 AY 7665) motorcycle when an unidentified car overtook them at high speed and collided with the rear of their bike, causing them to fall and sustain injuries. They were taken to Thanalakshmi Hospital, Siruvachur, by a 108 ambulance. The accused vehicle could not be identified.",
+        "Injuries": {
+          "Nataraj": "Injuries on right foot and back of the head",
+          "Ramasamy": "Swelling and injuries on right and left toes"
+        }
+      },
+      "Investigating_officer": {
+        "Name": "Thirugnanam",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "281, 125(a) BNS Act",
+        "District": "Perambalur",
+        "Police_station": "Padalur Police Station"
+      }
+    },
+    {
+      "FIR.No": "56/S1/2021",
+      "Date": "29-01-2021",
+      "Complainant_details": {
+        "Name": "Jayakumar",
+        "Age": "68",
+        "Father's_Name": "Ramasundaram",
+        "Address": "No: 2/59, GF3, Vee Crest Apts, Ghibli Road, West Mambalam, Chennai - 33",
+        "Phone": "7358487501"
+      },
+      "Accused_details": {
+        "Vehicle": "Bullet Motorcycle (TN 09 CK 6653)",
+        "Description": "The accused was riding the motorcycle at high speed and negligently hit the victim while she was crossing the road."
+      },
+      "Incident_details": {
+        "Date_time": "29-01-2021, 10:00 AM",
+        "Location": "Chinnamalai Taluk Office Road, Opposite Saidapet Court, Chennai",
+        "Incident_name": "Road Accident",
+        "description": "While crossing the road near Saidapet Court, the victim was hit by a speeding Bullet motorcycle (TN 09 CK 6653), causing injuries to the left side of her head and left elbow. She was taken to Saidapet Government Hospital for first aid and later shifted to Royapettah Government Hospital for further treatment."
+      },
+      "Investigating_officer": {
+        "Name": "R Balasubramaniyan",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "279, 337 IPC",
+        "District": "Chennai",
+        "Police_station": "J-3 Guindy Traffic Investigation Wing"
+      }
+    },
+    {
+      "FIR.No": "48/2020",
+      "Date": "17-02-2020",
+      "Complainant_details": {
+        "Name": "Vimal",
+        "Age": "25",
+        "Father's_Name": "Thomas",
+        "Address": "R.C Street, V. Pudupatti"
+      },
+      "Accused_details": {
+        "Name": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "16-02-2020, 9:20 PM",
+        "Location": "Complainant's residence, V. Pudupatti",
+        "Incident_name": "Suicide Case",
+        "description": "The complainant's father consumed pesticide after a family dispute and was taken to Watrap Government Hospital, where he succumbed to the effects of poisoning on 17-02-2020 at 1:30 AM."
+      },
+      "Investigating_officer": {
+        "Name": "Raja",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "174 CrPC",
+        "District": "Virudhunagar",
+        "Police_station": "Watrap Police Station"
+      }
+    },
+    {
+      "FIR.No": "50/2019",
+      "Date": "05-02-2019",
+      "Complainant_details": {
+        "Name": "Karmelmeri",
+        "Age": 38,
+        "Parent/Spouse": "Daughter of Suresh",
+        "Address": "4/115, Lascot Road, Kodaikanal",
+        "Phone": "7868852072"
+      },
+      "Incident_details": {
+        "Date_time": "05-02-2019, 08:00 AM",
+        "Location": "Near Kodikanbam, Bus Stop, Kodaikanal",
+        "Incident_name": "Theft of Handbag",
+        "description": "Three individuals on a black Pulsar bike (TN 57 BZ 5328) snatched a handbag containing Rs. 800 and a tiffin box and fled towards Perumalmalai. The suspect who grabbed the bag was approximately 17 years old, while the other two appeared to be between 18-20 years old."
+      },
+      "Accused_details": {
+        "No_of_Accused": 3,
+        "Vehicle_used": "Black Pulsar bike, TN 57 BZ 5328",
+        "Description": "One suspect (17 years old, short, dark complexion) snatched the handbag. Two others (18-20 years old) assisted in the theft and fled on the bike."
+      },
+      "Investigating_officer": {
+        "Name": "N. Pongunasekaran",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "379 IPC",
+        "District": "Dindigul",
+        "Police_station": "Kodaikanal Police Station"
+      }
+    },
+    {
+      "FIR.No": "67/2018",
+      "Date": "20-03-2018",
+      "Complainant_details": {
+        "Name": "R. Vijaygolden Singh",
+        "Address": "Pettaikavalan Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Naina Mohammed's son Mohammed Kasim and 15 others",
+        "Address": "MNP 5th North Street, Pettaikavalan",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "20-03-2018 10:15 AM",
+        "Location": "Near Pettaikavalan Roti Shop Bazaar",
+        "Incident_name": "Bus blockade protest against Ramarajya Rath Yatra",
+        "description": "SDPI party members, led by Mohammed Kasim, protested against the Ramarajya Rath Yatra entering Tirunelveli district without prior permission, violating Section 144. Despite police warnings, they blocked the bus, leading to their arrest.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "R. Vijaygolden Singh",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "143, 188, 283 IPC",
+        "District": "Tirunelveli",
+        "Police_station": "Pettaikavalan Police Station"
+      }
+    },
+    {
+      "FIR.No": "88/2017",
+      "Date": "07-03-2017",
+      "Complainant_details": {
+        "Name": "Unknown",
+        "Address": "P6 Magaral Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Raja",
+        "Address": "Thammanoor Sudhir Kuppam Village",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "07-03-2017 16:30",
+        "Location": "Thammanoor Sudhir Kuppam Village",
+        "Incident_name": "Unauthorized Scrap Dealing",
+        "description": "The accused was found buying and selling old iron and plastic materials without any valid license. Upon inquiry, the accused admitted to operating the shop without proper authorization, violating licensing regulations.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "D PremKumar",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "Section 11 of Tamil Nadu Scrap Merchants & Dealers in Second Hand Property & Owners of Automobile Workshop & Tinkers Shop (Registration Control and Licensing) Act 1985",
+        "District": "Kanchipuram",
+        "Police_station": "P6 Magaral Police Station"
+      }
+    },
+    {
+      "FIR.No": "34/GNT-3/2018",
+      "Date": "14-01-2018",
+      "Complainant_details": {
+        "Name": "Dheerthi",
+        "Address": "No.7, Manickavasagar Street, Chinna Sekkadu, Manali, Chennai-68",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "14-01-2018 09:50",
+        "Location": "Moolachathiram Main Road, Bank Colony Main Road Junction, Madhavaram, Chennai-51",
+        "Incident_name": "Road Accident",
+        "description": "The complainant was riding his motorcycle (TN 18 AF 0380) when a car (TN 05 BJ 6305) driving at high speed and negligently from east to west collided with his vehicle. The complainant suffered a fracture in his left knee and was taken to FOR ORTHO hospital for treatment.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "N. Paramasivam",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "279, 338 IPC",
+        "District": "Chennai",
+        "Police_station": "G.N.T. Traffic Investigation Wing"
+      }
+    },
+    {
+      "FIR.No": "60/2020",
+      "Date": "13-02-2020",
+      "Complainant_details": {
+        "Name": "K. Kumar",
+        "Address": "Poyar Colony, Jodukuli, Kadaiyampatti (TK), Salem (Dt)",
+        "Contact_number": "9790014738"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "20-11-2019 07:00",
+        "Location": "Poyar Colony, Jodukuli, Kadaiyampatti (TK), Salem (Dt)",
+        "Incident_name": "Missing Person",
+        "description": "The complainant's younger brother, Palanisamy (32), who is mentally challenged and mute, left home wearing a white checkered shirt and cement-colored pants on 20-11-2019 at 07:00 AM and has not returned since. Despite searching nearby areas and relatives' houses, he remains missing.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Janakiraman",
+        "Rank": "Special Police Sub-Inspector",
+        "IPC_section": "Man Missing",
+        "District": "Salem",
+        "Police_station": "Theevattipatti Police Station"
+      }
+    },
+    {
+      "FIR.No": "89/2019",
+      "Date": "01-10-2019",
+      "Complainant_details": {
+        "Name": "Aathimoolam",
+        "Age": "44",
+        "Father's_Name": "Kuppusamy",
+        "Address": "Pillaiyarkovil Street, Sirukadambur",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Krishnamurthy, Maaveeran (Son of Krishnamurthy)",
+        "Address": "Sirukadambur",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "25-09-2019 09:00",
+        "Location": "Sirukadambur",
+        "Incident_name": "Physical Assault and Threatening",
+        "description": "The complainant visited his mother's house in Sirukadambur to discuss his share of the property. During the conversation, his elder brother Krishnamurthy and nephew Maaveeran physically assaulted him. Krishnamurthy pushed him against a wall, and Maaveeran struck him with a firewood stick, causing injuries. The complainant suffered chest pain and later sought treatment at the Ariyalur Government Hospital.",
+        "Witnesses": "Mother of the complainant"
+      },
+      "Investigating_officer": {
+        "Name": "Ramesh Babu",
+        "Rank": "Assistant Sub-Inspector",
+        "IPC_section": "294(b), 323, 506(1) IPC",
+        "District": "Ariyalur",
+        "Police_station": "Irumbulikurichi Police Station"
+      }
+    },
+    {
+      "FIR.No": "10/2021",
+      "Date": "06-01-2021",
+      "Complainant_details": {
+        "Name": "M. Dilli Babu",
+        "Father_Name": "Mohan Sundaram",
+        "Age": "32",
+        "Address": "No. 16, 42nd Block, Tsunami Quarters, Ernavur, Chennai-57",
+        "Contact_number": "7397459294"
+      },
+      "Accused_details": {
+        "Name": "Janakiraman",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "06-01-2021 11:00",
+        "Location": "Near Ernavur Market, Chennai",
+        "Incident_name": "Robbery with Threat",
+        "description": "The complainant, an auto driver, was stopped near Ernavur Market by an unknown male identified as Janakiraman. The accused demanded money, and when the complainant refused, he took an iron rod from his waist and attempted to hit the complainant. Fearing for his safety, the complainant handed over Rs. 500. The accused threatened bystanders with the rod before escaping.",
+        "Witnesses": "Public nearby"
+      },
+      "Investigating_officer": {
+        "Name": "P Karthikeya pandian",
+        "Rank": "Sub-Inspector of Police",
+        "IPC_section": "341, 294(b), 384, 506(II) IPC",
+        "District": "Chennai",
+        "Police_station": "M5 Ennore Police Station"
+      }
+    },
+    {
+      "FIR.No": "35/2021",
+      "Date": "02-02-2022",
+      "Complainant_details": {
+        "Name": "S. Mohan",
+        "Rank": "Assistant Inspector",
+        "Police_station": "Sunnampedu Police Station",
+        "District": "Kanchipuram"
+      },
+      "Accused_details": {
+        "Name": "Ismail",
+        "Age": 58,
+        "Father's Name": "Moidheen",
+        "Position": "Branch Secretary, AIADMK",
+        "Address": "Vinambur Village"
+      },
+      "Incident_details": {
+        "Date_time": "02-02-2022 17:15",
+        "Location": "Vinambur Bus Stop",
+        "Incident_name": "Election Rule Violation",
+        "description": "The accused placed party leader photographs in an open space during election rule enforcement, violating election regulations.",
+        "Witnesses": "Unknown"
+      },
+      "Investigating_officer": {
+        "Name": "S. Mohan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1) TN Open Places Disfigurement Act",
+        "District": "Kanchipuram",
+        "Police_station": "Sunnampedu Police Station"
+      }
+    },
+    {
+      "FIR.No": "30/2020",
+      "Date": "03-02-2020",
+      "Complainant_details": {
+        "Name": "S. Karthigaivel",
+        "Rank": "Special Sub-Inspector",
+        "Police_station": "Chathrapatti Police Station"
+      },
+      "Accused_details": {
+        "Name": "Sakthivel",
+        "Father's Name": "Murugan",
+        "Address": "East Street, Samiyar Pudur, Oddanchatram Taluk"
+      },
+      "Incident_details": {
+        "Date_time": "03-02-2020 02:30",
+        "Location": "Virupatchi Bus Stop",
+        "Incident_name": "Suspicious Activity",
+        "description": "During a routine patrol near Virupatchi Bus Stop, the police team noticed an individual hiding in the dark. Upon questioning, he identified himself as Sakthivel, son of Murugan. A bag he carried contained iron tools like cutting blades and chisels, raising suspicion of criminal intent. As he provided inconsistent statements about the items, he was taken into custody to prevent potential criminal activity.",
+        "Witnesses": "Constable Kannan (623), Constable Jagadeesh Pandian (1318)"
+      },
+      "Investigating_officer": {
+        "Name": "S. Karthigaivel",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "41(1)(d) Cr.P.C",
+        "District": "Dindigul",
+        "Police_station": "Chathrapatti Police Station"
+      }
+    },
+    {
+      "FIR.No": "21/2024",
+      "Date": "18-01-2024",
+      "Complainant_details": {
+        "Name": "Rajesh",
+        "Address": "Sankarapura (PO), Hawaguda, Habbali, Hunsur (TK), Tudu Jara, Mysore, Karnataka - 571105",
+        "Contact_number": "9035007618"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "17-01-2024 14:00 - 18:00",
+        "Location": "Complainant's residence near Vanjiyamman Poultry Farm, Kattampatti",
+        "Incident_name": "Missing Person",
+        "description": "The complainant’s son Vijay (20) went missing from their residence while the family was at work. He was last seen wearing a blue-colored shirt and blue-colored shorts, with a cross tattoo on his right hand.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Kaviyarasu",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "Man Missing",
+        "District": "Pollachi",
+        "Police_station": "Nagamam Police Station"
+      }
+    },
+    {
+      "FIR.No": "56/2018",
+      "Date": "27-02-2018",
+      "Complainant_details": {
+        "Name": "C. Arivuselvam",
+        "Address": "Perigai Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Nataraj",
+        "Address": "S/o Venkatasamy, K.N Thotti (K), Perigai (A), Shoolagiri (Taluk)",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "27-02-2018 04:00",
+        "Location": "Near Perigai New Bus Stand",
+        "Incident_name": "Suspicious Activity",
+        "description": "The accused was found standing with a headscarf near the bus stand and attempted to flee upon seeing the police. Upon questioning, he gave inconsistent information regarding his identity and presence at the location. Suspecting potential criminal intent, he was taken into custody for further investigation.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "C. Arivuselvam",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "41(1) CrPC",
+        "District": "Krishnagiri",
+        "Police_station": "Perigai Police Station"
+      }
+    },
+    {
+      "FIR.No": "12/2017",
+      "Date": "07-01-2017",
+      "Complainant_details": {
+        "Name": "N. Manimaran",
+        "Address": "No. 36/87, Manrood, Annamalai Nagar, Chidambaram Taluk",
+        "Contact_number": "7539908465"
+      },
+      "Accused_details": {
+        "Name": "Ashok",
+        "Address": "Residing near Old Bhuvanagiri Road, Chidambaram",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "04-01-2017 14:15",
+        "Location": "Chidambaram Bus Stand",
+        "Incident_name": "Assault and Criminal Intimidation",
+        "description": "The complainant, a bus conductor, was verbally abused and assaulted by the accused with an iron pipe near the bus stand. The accused struck the complainant near the left eye, right shoulder, and right palm, causing bleeding. The accused also threatened to kill him before fleeing. Witnesses to the incident include Balaji Bus Driver Annadurai and VRM Bus Driver Jagan.",
+        "Witnesses": "Balaji Bus Driver Annadurai, VRM Bus Driver Jagan"
+      },
+      "Investigating_officer": {
+        "Name": "2155 Iravichandran",
+        "Rank": "Head Constable",
+        "IPC_section": "294(b), 324, 506(II) IPC",
+        "District": "Cuddalore",
+        "Police_station": "Chidambaram Town Police Station"
+      }
+    },
+    {
+      "FIR.No": "59/2021",
+      "Date": "31-01-2021",
+      "Complainant_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "31-01-2021 04:30",
+        "Location": "Near Post Office, Mettupalayam, Thiruvalam",
+        "Incident_name": "Suspicious Activity and Detention",
+        "description": "During a routine patrol near the post office, the police identified suspicious individuals hiding in the dark with their faces covered. Upon questioning, they initially provided false information but later revealed their identities. As they could not provide a valid reason for being there, they were suspected of potential criminal intent and were taken into custody.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "unknown",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "41(1)(a) CrPC",
+        "District": "Vellore",
+        "Police_station": "Thiruvalam Police Station"
+      }
+    },
+    {
+      "FIR.No": "20/2023",
+      "Date": "26-01-2023",
+      "Complainant_details": {
+        "Name": "K. Kannan",
+        "Address": "Thiruvarur Taluk Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Chinnathambi",
+        "Address": "Periya Theru, Poondhalangudi, Kamalapuram, Thiruvarur",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "26-01-2023 19:00",
+        "Location": "Near Kalyanamahadevi Pandavaiyaru Bridge, Thiruvarur",
+        "Incident_name": "Illegal Possession of Liquor",
+        "description": "During a routine patrol, police found the accused carrying a bag containing six bottles of Black Pearal Brandy (180ml) without legal authorization. The liquor was seized, documented in the presence of police officials, and destroyed at the scene. The accused was arrested on the spot and taken to the police station.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "K. Kannan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1)(a) TNP ACT",
+        "District": "Thiruvarur",
+        "Police_station": "Thiruvarur Taluk Police Station"
+      }
+    },
+    {
+      "FIR.No": "10/2024",
+      "Date": "10-01-2023",
+      "Complainant_details": {
+        "Name": "P. Lokesh",
+        "Address": "Nemili Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Venkatesa Perumal",
+        "Address": "No. 85, Perumal Kovil Street, Keelvenpakkam, Nemili Taluk, Ranipet District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "10-01-2023 16:00",
+        "Location": "Behind the accused's house, Keelvenpakkam, Nemili",
+        "Incident_name": "Illegal Possession and Sale of Liquor",
+        "description": "During an inspection related to the prohibition of liquor, the accused was found sitting with a plastic bag containing five bottles of Top Star Brandy (180ml). Upon questioning, he admitted to purchasing the liquor from a government liquor shop and reselling it at a higher price without legal authorization. The liquor bottles were seized, documented in the presence of police officials, and the accused was arrested at 16:15.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "P. Lokesh",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1)(a) TNP ACT",
+        "District": "Ranipet",
+        "Police_station": "Nemili Police Station"
+      }
+    },
+    {
+      "FIR.No": "10/2019",
+      "Date": "05-01-2019",
+      "Complainant_details": {
+        "Name": "Nandinidevi",
+        "Address": "Vadavanakkambadi Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Prakash",
+        "Age": 33,
+        "Father's_Name": "Ekambaram",
+        "Address": "Mariamman Kovil Street, Old Colony, Ailavadi Village, Vandavasi Taluk",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "05-01-2019 17:15",
+        "Location": "Vadavanakkambadi Bus Stop",
+        "Incident_name": "Suspicious Behavior and Attempt to Flee",
+        "description": "While on night patrol, the police noticed the accused at Vadavanakkambadi Bus Stop. Upon seeing the police, he attempted to flee but was apprehended. He provided inconsistent details about his identity and presence at the location. Due to his suspicious behavior, he was arrested at 18:00 under suspicion of potential criminal intent.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Nandinidevi",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "41(1)(a) CRPC",
+        "District": "Unknown",
+        "Police_station": "Vadavanakkambadi Police Station"
+      }
+    },
+    {
+      "FIR.No": "34/2022",
+      "Date": "26-02-2022",
+      "Complainant_details": {
+        "Name": "Venkatasalam",
+        "Address": "Kurubarapalli Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Ponmathi",
+        "Age": 30,
+        "Father's_Name": "Sivan",
+        "Address": "Nadusalai Village, Chennasandiram Post, Krishnagiri Taluk & District",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Name": "Illegal Possession and Sale of Liquor",
+        "Date_time": "26-02-2022 19:00",
+        "Location": "Nadusalai Village, Kurubarapalli Police Station Limits",
+        "description": "During a patrol, the police noticed the accused hiding a bundle behind her house. Upon seeing the officers, she attempted to flee, leaving the bundle behind. She was apprehended and initially provided inconsistent details before admitting that she was illegally storing and selling liquor for profit. The accused was arrested at 19:10, and 5 bottles (180ml each) of Monitor Brandy were confiscated. As no public witnesses came forward, the confiscation was recorded in the presence of police witnesses, and the liquor was destroyed at the spot as per orders.",
+        "Witnesses": "Police Officers Present"
+      },
+      "Investigating_officer": {
+        "Name": "Venkatasalam",
+        "Rank": "Special Police Sub-Inspector",
+        "IPC_section": "4(1)(a) TNP Act",
+        "District": "Krishnagiri",
+        "Police_station": "Kurubarapalli Police Station"
+      }
+    },
+    {
+      "FIR.No": "45/2018",
+      "Date": "30-01-2018",
+      "Complainant_details": {
+        "Name": "Murugan"
+      },
+      "Accused_details": [
+        {
+          "Name": "Ramesh",
+          "Father's_Name": "Arumugam"
+        },
+        {
+          "Name": "Kumaravel",
+          "Father's_Name": "Vadivel"
+        }
+      ],
+      "Incident_details": {
+        "Name": "Suspicious Loitering",
+        "Date_time": "30-01-2018 04:00",
+        "Location": "Near RK Pettai Bazaar",
+        "description": "During patrolling, two individuals attempted to flee upon seeing the police. When apprehended, they provided inconsistent details about their identities before finally identifying themselves as Ramesh and Kumaravel. As they had no valid reason to be present at the location at that time, they were suspected of intending to commit a crime and were arrested on the spot at 04:00. They were taken to the police station at 04:30, formally searched, and handed over to station custody.",
+        "Witnesses": "Police Officers Present"
+      },
+      "Investigating_officer": {
+        "Name": "G Murugan",
+        "Rank": "Sub-Inspector Of Police",
+        "IPC_section": "41(1) CRPC",
+        "District": "Tiruvarur",
+        "Police_station": "RK Pet"
+      }
+    },
+    {
+      "FIR.No": "37/18",
+      "Date": "21-03-2018",
+      "Complainant_details": {
+        "Name": "S. Paranthaman",
+        "Designation": "Sub-Inspector (In-charge of Kumuli Police Station)"
+      },
+      "Accused_details": [
+        {
+          "Name": "Vallavan @ Manickam",
+          "Father's_Name": "Kesavan",
+          "Address": "4/29, Kotta Nathampatti, Melur (TK), Madurai (Dt)",
+          "Age": "33"
+        }
+      ],
+      "Incident_details": {
+        "Name": "Illegal Lottery Ticket Sale",
+        "Date_time": "21-03-2018 07:15",
+        "Location": "Kumuli Bus Stand",
+        "description": "Based on a tip-off from an informant, police patrolled Kumuli Bus Stand and identified the accused selling banned Kerala state lottery tickets. The accused voluntarily produced 67 Akshaya lottery tickets (draw date: 21-03-2018) and 60 Karunya Plus lottery tickets (draw date: 22-03-2018), each worth ₹30, totaling ₹3,810. The items were seized in the presence of witnesses, and the accused was taken into custody along with the seized lottery tickets at 08:30.",
+        "Witnesses": [
+          {
+            "Name": "Chinna Andi",
+            "Father's_Name": "Chinnaraja",
+            "Address": "Loyer Camp"
+          },
+          {
+            "Name": "Mahendran",
+            "Father's_Name": "Pandiyan",
+            "Address": "Loyer Camp"
+          }
+        ]
+      },
+      "Investigating_officer": {
+        "Name": "S. Paranthaman",
+        "Designation": "Sub-Inspector (In-charge of Kumuli Police Station)",
+        "IPC_section": "5 r/w 7 (3) TNLR Act",
+        "District": "Theni",
+        "Police_Station": "Kumuli Police Station"
+      }
+    },
+    {
+      "FIR.No": "54/2017",
+      "Date": "19-03-2017",
+      "Complainant_details": {
+        "Name": "S. Subash Chandra Bose",
+        "Address": "Maraneri Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Ulaganathan",
+        "Address": "Periyapottalpatti",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "19-03-2017 - 01:45 AM",
+        "Location": "Periyapottalpatti North, Burma Colony Road, near Selvam's Farm",
+        "Incident_name": "Illegal Sand Mining",
+        "description": "The accused was caught illegally transporting sand in a TN67 AS 8048 tractor with a TN60 H 1330 trailer. Upon interception, he attempted to flee but was apprehended. The sand, valued at approximately Rs. 2000, was seized.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "S. Subash Chandra Bose",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "379 IPC R/W 21(1) Mines and Minerals Act",
+        "District": "Virudhunagar",
+        "Police_station": "Maraneri Police Station"
+      }
+    },
+    {
+      "FIR.No": "27/2017",
+      "Date": "15-01-2017",
+      "Complainant_details": {
+        "Name": "PalaniSamy",
+        "Address": "Dharapuram Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "16-01-2017 - 02:00 AM",
+        "Location": "Udumalai Roundana, in front of Arun Bakery, Dharapuram Town",
+        "Incident_name": "Suspicious Activity",
+        "description": "Two individuals were found loitering suspiciously and attempted to flee upon seeing the police. Upon questioning, they provided inconsistent statements regarding their identity and presence at the location. Due to reasonable suspicion of potential criminal intent, they were detained as a precautionary measure.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "PalaniSamy",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "41(ii) CrPC",
+        "District": "Tiruppur",
+        "Police_station": "Dharapuram Police Station"
+      }
+    },
+    {
+      "FIR.No": "40/2019",
+      "Date": "24-02-2019",
+      "Complainant_details": {
+        "Name": "S.I. Boopathi",
+        "Address": "Ambathurai Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Arumugam",
+        "Address": "Indira Colony, Dharmathupatti, Kannivadi, Dindigul District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "24-02-2019 - 13:00",
+        "Location": "Near Railway Bridge, Chettiyapatti Division, Ambathurai",
+        "Incident_name": "Unlawful Liquor Possession and Sale",
+        "description": "The accused was found carrying a white polythene bag containing five 180 ML bottles of Roman Castle Brandy. Upon seeing the police, he attempted to flee but was apprehended. Since no independent witnesses were available, the police team seized and destroyed the liquor on-site and documented the evidence.",
+        "Witnesses": "Police Team"
+      },
+      "Investigating_officer": {
+        "Name": "S.I. Boopathi",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "4(1)(a) TNP Act",
+        "District": "Dindigul",
+        "Police_station": "Ambathurai Police Station"
+      }
+    },
+    {
+      "FIR.No": "66/2022",
+      "Date": "06-04-2022",
+      "Complainant_details": {
+        "Name": "Samraj",
+        "Address": "Thiruvalangadu Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "06-04-2022 - 17:00",
+        "Location": "Near Nayudu Mess, Thiruvalangadu",
+        "Incident_name": "Illegal Sale of Banned Tobacco Products",
+        "description": "The accused was found in possession of government-banned tobacco products, including Hans (5 packets), Uma Podi (15 packets), MDM Pakku (50 packets), and Vimal Pakku (20 packets). Upon noticing the police, the accused attempted to flee but was apprehended. Due to the absence of independent witnesses, the police team seized the items in their presence, documented the evidence, and arrested the accused at 17:00 hrs.",
+        "Witnesses": "Police Team"
+      },
+      "Investigating_officer": {
+        "Name": "Samraj",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "24(1) CIGARETTE AND OTHER TOBACCO PRODUCT ACT",
+        "District": "Tiruvallur",
+        "Police_station": "Thiruvalangadu Police Station"
+      }
+    },
+    {
+      "FIR.No": "22/2023",
+      "Date": "23-01-2023",
+      "Complainant_details": {
+        "Name": "M. Manivannan",
+        "Father's Name": "Murali",
+        "Address": "N Chikkabasavanapura, Sudhandhira Nagar, Bangalore North, Bangalore",
+        "Contact_number": "9535056032"
+      },
+      "Accused_details": {
+        "Name": "Unknown",
+        "Address": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "10-01-2023 - 21:30",
+        "Location": "Ajith Mahal, Sedhuvalai to Poigai Main Road, Virinchipuram",
+        "Incident_name": "Theft of Two-Wheeler",
+        "description": "The complainant and his wife had taken Room No. 2 at Ajith Mahal. He had parked his Bajaj Pulsar 220 SF (KA 40 V 5289, Black) in front of the Mahal at 21:30 hrs on 10-01-2023. The next morning at 07:30 hrs, he found that the vehicle was missing. Despite searching the surroundings, he could not find it. It is suspected that unknown individuals broke the vehicle lock and stole it.",
+        "Witnesses": "None mentioned"
+      },
+      "Investigating_officer": {
+        "Name": "M. Ravi",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "379 IPC",
+        "District": "Vellore",
+        "Police_station": "Virinchipuram Police Station"
+      }
+    },
+    {
+      "FIR.No": "17/2023",
+      "Date": "16-01-2022",
+      "Complainant_details": {
+        "Name": "A. Dharman",
+        "Address": "Harur Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Chinnraj",
+        "Father's Name": "Thiruthagiri",
+        "Address": "Gowapparai Village, Ellapudayampatti Post, Harur Taluk, Dharmapuri District",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "16-01-2022 - 14:00",
+        "Location": "Gowapparai Village, Harur",
+        "Incident_name": "Illegal Sale of Alcohol",
+        "description": "The accused was found behind his house with two white sacks. Upon noticing the police, he attempted to flee but was apprehended. Upon investigation, he admitted to illegally selling government-banned liquor. The seized liquor included 180 Mens Club -52, Black Pearl -25, Copper -49, Express -95, 650 TL Black Pearl Triple-20, Holandas -22, Zingaro -3, and British Empire Premium -28, totaling 294 bottles. Due to the absence of independent witnesses, the police team documented the evidence and destroyed the seized liquor on-site, as per legal protocols. The accused was arrested and brought to the station at 15:00 hrs.",
+        "Witnesses": "Police Team"
+      },
+      "Investigating_officer": {
+        "Name": "A. Dharman",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "4(1) (aa) TNP Act",
+        "District": "Dharmapuri",
+        "Police_station": "Harur Police Station"
+      }
+    },
+    {
+      "FIR.No": "02/2024",
+      "Date": "12-01-2024",
+      "Complainant_details": {
+        "Name": "S. Vijayakumar",
+        "Father's Name": "Sekar",
+        "Address": "East Street, Vilakucheri",
+        "Contact_number": "9787952763"
+      },
+      "Accused_details": {
+        "Name": [
+          "Gopal's son Hemnathan",
+          "Ganesan's son Sethupathi",
+          "Viswanathan's son Subbaraj",
+          "Karthik Karuppusamy's son Ayyanar",
+          "Kattaiya's son Eswaran",
+          "Ganesan's son Sankar"
+        ],
+        "Address": "Sammanenthal Village",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "11-01-2024 - 18:30",
+        "Location": "Near Bus Stop, Vilakucheri",
+        "Incident_name": "Physical Assault and Threats",
+        "description": "The complainant, along with his wife and two children, resides in Vilakucheri. Due to an ongoing dispute over wood cutting and water flow in a canal with residents of Sammanenthal, an altercation occurred on 11-01-2024 at 18:30 hrs. When the complainant was near the village bus stop, the accused Hemnathan verbally abused him, pushed him to the ground, and, along with other accused individuals, physically assaulted him. The complainant's wife, father, and a villager named Thangaraj intervened. The accused then threatened to kill the complainant if he interfered in their matters again. The complainant was taken to Thiruchuli Government Hospital for treatment and later filed this complaint.",
+        "Witnesses": [
+          "Deepa (Wife of the Complainant)",
+          "Sekar (Father of the Complainant)",
+          "Thangaraj (Villager)"
+        ]
+      },
+      "Investigating_officer": {
+        "Name": "N. Abraham",
+        "Rank": "Special Officer",
+        "IPC_section": "143, 294(b), 323, 506(1) IPC",
+        "District": "Virudhunagar",
+        "Police_station": "Veeracholan Police Station"
+      }
+    },
+    {
+      "FIR.No": "18/2025",
+      "Date": "22-01-2025",
+      "Complainant_details": {
+        "Name": "K. Manjupriya",
+        "Address": "South Street, Abiviruthiswaram, Near Kaliamman Temple",
+        "Contact_number": "8608417879"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "21-01-2025 17:00 Hrs",
+        "Location": "Complainant’s newly constructed house entrance, Abiviruthiswaram",
+        "Incident_name": "Accidental Electrocution",
+        "description": "Complainant found her mother Rajalakshmi (55) and brother Prasanna Kumar (33) unconscious due to electric shock. Medical personnel confirmed their deaths. No suspicion was raised.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "B. Praveen",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "U/S 194 BNSS ACT (Electric Shock)",
+        "District": "Thiruvarur",
+        "Police_station": "Koradachery Police Station"
+      }
+    },
+    {
+      "FIR.No": "26/2019",
+      "Date": "11-01-2019",
+      "Complainant_details": {
+        "Name": "C. Periyasamy",
+        "Address": "Thivattipatti Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Malar",
+        "Address": "Thasanur",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "11-01-2019 15:00 Hrs",
+        "Location": "Near the opponent's house, Thasanur Forest Area",
+        "Incident_name": "Illegal Liquor Sale",
+        "description": "While police were patrolling near Thasanur, Malar was seen handing over a glass bottle containing liquid to another person. Upon police intervention, others fled, but Malar was caught with seven 180ML glass bottles of government IMFL liquor. The accused admitted to selling liquor without government permission. The accused was arrested on the spot, the evidence was seized in the presence of police witnesses, and some items were destroyed at the scene.",
+        "Witnesses": "Police team"
+      },
+      "Investigating_officer": {
+        "Name": "C. Periyasamy",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "U/S 4(1)(a) TNP ACT",
+        "District": "Salem",
+        "Police_station": "Thivattipatti Police Station"
+      }
+    },
+    {
+      "FIR.No": "39/2020",
+      "Date": "18-01-2020",
+      "Complainant_details": {
+        "Name": "Muruganandhan",
+        "Address": "Kangayam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-01-2020 03:15 Hrs",
+        "Location": "Near AXIS ATM, Tiruppur Road, Kangayam",
+        "Incident_name": "Preventive Arrest of Suspicious Persons",
+        "description": "During night patrol, police noticed two suspicious individuals near AXIS ATM, Tiruppur Road, Kangayam. Upon seeing the police, they attempted to flee but were caught and interrogated. They provided conflicting and unclear address details. As they could potentially commit a crime if left unchecked, they were arrested as a precautionary measure.",
+        "Witnesses": "Police team"
+      },
+      "Investigating_officer": {
+        "Name": "Muruganandhan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "U/S 41(II) CRPC",
+        "District": "Tiruppur",
+        "Police_station": "Kangayam Police Station"
+      }
+    },
+    {
+      "FIR.No": "39/2020",
+      "Date": "18-01-2020",
+      "Complainant_details": {
+        "Name": "Muruganandhan",
+        "Address": "Kangayam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-01-2020 03:15 Hrs",
+        "Location": "Near AXIS ATM, Tiruppur Road, Kangayam",
+        "Incident_name": "Preventive Arrest of Suspicious Persons",
+        "description": "During night patrol, police noticed two suspicious individuals near AXIS ATM, Tiruppur Road, Kangayam. Upon seeing the police, they attempted to flee but were caught and interrogated. They provided conflicting and unclear address details. As they could potentially commit a crime if left unchecked, they were arrested as a precautionary measure.",
+        "Witnesses": "Police team"
+      },
+      "Investigating_officer": {
+        "Name": "Muruganandhan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "U/S 41(II) CRPC",
+        "District": "Tiruppur",
+        "Police_station": "Kangayam Police Station"
+      }
+    },
+    {
+      "FIR.No": "39/2020",
+      "Date": "18-01-2020",
+      "Complainant_details": {
+        "Name": "Muruganandhan",
+        "Address": "Kangayam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-01-2020 03:15 Hrs",
+        "Location": "Near AXIS ATM, Tiruppur Road, Kangayam",
+        "Incident_name": "Preventive Arrest of Suspicious Persons",
+        "description": "During night patrol, police noticed two suspicious individuals near AXIS ATM, Tiruppur Road, Kangayam. Upon seeing the police, they attempted to flee but were caught and interrogated. They provided conflicting and unclear address details. As they could potentially commit a crime if left unchecked, they were arrested as a precautionary measure.",
+        "Witnesses": "Police team"
+      },
+      "Investigating_officer": {
+        "Name": "Muruganandhan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "U/S 41(II) CRPC",
+        "District": "Tiruppur",
+        "Police_station": "Kangayam Police Station"
+      }
+    },
+    {
+      "FIR.No": "39/2020",
+      "Date": "18-01-2020",
+      "Complainant_details": {
+        "Name": "Muruganandhan",
+        "Address": "Kangayam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-01-2020 03:15 Hrs",
+        "Location": "Near AXIS ATM, Tiruppur Road, Kangayam",
+        "Incident_name": "Preventive Arrest of Suspicious Persons",
+        "description": "During night patrol, police noticed two suspicious individuals near AXIS ATM, Tiruppur Road, Kangayam. Upon seeing the police, they attempted to flee but were caught and interrogated. They provided conflicting and unclear address details. As they could potentially commit a crime if left unchecked, they were arrested as a precautionary measure.",
+        "Witnesses": "Police team"
+      },
+      "Investigating_officer": {
+        "Name": "Muruganandhan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "U/S 41(II) CRPC",
+        "District": "Tiruppur",
+        "Police_station": "Kangayam Police Station"
+      }
+    },
+    {
+      "FIR.No": "60/2021",
+      "Date": "12-01-2021",
+      "Complainant_details": {
+        "Name": "M.M. Kamaraj",
+        "Address": "Theevattipatti Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Subramani",
+        "Address": "Rajiv Gandhi Nagar, Danishpet, Kadaiyampatti Taluk, Salem District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "12-01-2021 09:00 Hrs",
+        "Location": "Near Rajiv Gandhi Nagar, Danishpet, Theevattipatti Police Limits",
+        "Incident_name": "Illegal Sale of Lottery Tickets",
+        "description": "Police noticed Subramani attempting to flee near his house. Upon being caught and interrogated, he admitted to selling illegal lottery tickets from Kerala without government authorization. The police seized printed lottery tickets marked 'KERALA ROJA 12.1.2021 R 367481 TO R 367490' along with ₹100 from sales. The accused was arrested at 19:15 Hrs.",
+        "Witnesses": "Police personnel Murugan and Madhavaraj"
+      },
+      "Investigating_officer": {
+        "Name": "M.M. Kamaraj",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "U/S 7(1)(3) TNLR Act",
+        "District": "Salem",
+        "Police_station": "Theevattipatti Police Station"
+      }
+    },
+    {
+      "FIR.No": "72/2022",
+      "Date": "08-05-2022",
+      "Complainant_details": {
+        "Name": "Manjula",
+        "Address": "Munnur, Poikakaraipatti, Madurai District",
+        "Contact_number": "9047350336"
+      },
+      "Accused_details": {
+        "Name": "N/A",
+        "Address": "N/A",
+        "Contact_number": "N/A"
+      },
+      "Incident_details": {
+        "Date_time": "07-05-2022 23:00 Hrs",
+        "Location": "Complainant's Residence, Munnur, Poikakaraipatti, Madurai District",
+        "Incident_name": "Suicide Case",
+        "description": "The complainant's husband, Sudhakar, who was addicted to alcohol, returned home drunk at 23:00 Hrs and refused to give money for household expenses, leading to an argument. Later, at 01:30 Hrs, the complainant found him hanging from an iron rod in the house. With the help of relatives, they cut the saree used for hanging and rushed him to a hospital. He was declared dead upon arrival at the Government Hospital in Madurai.",
+        "Witnesses": "Mahadevan, Mookayi, Alaguraja, Vishnu, Mathi, Ramar"
+      },
+      "Investigating_officer": {
+        "Name": "R. Ravi",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "U/S 174 CrPC",
+        "District": "Madurai",
+        "Police_station": "Appanthirupathi Police Station"
+      }
+    },
+    {
+      "FIR.No": "72/2022",
+      "Date": "08-05-2022",
+      "Complainant_details": {
+        "Name": "Manjula",
+        "Address": "Munnur, Poikakaraipatti, Madurai District",
+        "Contact_number": "9047350336"
+      },
+      "Accused_details": {
+        "Name": "N/A",
+        "Address": "N/A",
+        "Contact_number": "N/A"
+      },
+      "Incident_details": {
+        "Date_time": "07-05-2022 23:00 Hrs",
+        "Location": "Complainant's Residence, Munnur, Poikakaraipatti, Madurai District",
+        "Incident_name": "Suicide Case",
+        "description": "The complainant's husband, Sudhakar, who was addicted to alcohol, returned home drunk at 23:00 Hrs and refused to give money for household expenses, leading to an argument. Later, at 01:30 Hrs, the complainant found him hanging from an iron rod in the house. With the help of relatives, they cut the saree used for hanging and rushed him to a hospital. He was declared dead upon arrival at the Government Hospital in Madurai.",
+        "Witnesses": "Mahadevan, Mookayi, Alaguraja, Vishnu, Mathi, Ramar"
+      },
+      "Investigating_officer": {
+        "Name": "R. Ravi",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "U/S 174 CrPC",
+        "District": "Madurai",
+        "Police_station": "Appanthirupathi Police Station"
+      }
+    },
+    {
+      "FIR.No": "72/2022",
+      "Date": "08-05-2022",
+      "Complainant_details": {
+        "Name": "Manjula",
+        "Address": "Munnur, Poikakaraipatti, Madurai District",
+        "Contact_number": "9047350336"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "07-05-2022 23:00 Hrs",
+        "Location": "Complainant's Residence, Munnur, Poikakaraipatti, Madurai District",
+        "Incident_name": "Suicide Case",
+        "description": "The complainant's husband, Sudhakar, who was addicted to alcohol, returned home drunk at 23:00 Hrs and refused to give money for household expenses, leading to an argument. Later, at 01:30 Hrs, the complainant found him hanging from an iron rod in the house. With the help of relatives, they cut the saree used for hanging and rushed him to a hospital. He was declared dead upon arrival at the Government Hospital in Madurai.",
+        "Witnesses": "Mahadevan, Mookayi, Alaguraja, Vishnu, Mathi, Ramar"
+      },
+      "Investigating_officer": {
+        "Name": "R. Ravi",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "U/S 174 CrPC",
+        "District": "Madurai",
+        "Police_station": "Appanthirupathi Police Station"
+      }
+    },
+    {
+      "FIR.No": "30/2024",
+      "Date": "12-02-2024",
+      "Complainant_details": {
+        "Name": "Thiru. Nagarasu",
+        "Rank": "Head Constable (1165)",
+        "Address": "Chinthamanipatti Police Station, Karur District",
+        "Contact_number": "N/A"
+      },
+      "Accused_details": {
+        "Name": "Venkatesan",
+        "Age": "38",
+        "Father's Name": "Vadivel",
+        "Address": "Moolakkarai, Vellaiyagoundanur, Vedasandur (TK), Dindigul District"
+      },
+      "Incident_details": {
+        "Date_time": "12-02-2024 15:15 Hrs",
+        "Location": "Kosur, in front of EB Office",
+        "Incident_name": "Illegal Liquor Possession and Sale",
+        "description": "The accused was found in possession of 180ml Men's Club brandy bottles (5 bottles) without government authorization. He admitted to keeping them for illegal sale at a higher price. The police seized and destroyed the liquor bottles at the scene under official supervision.",
+        "Witnesses": "Accompanying police officers"
+      },
+      "Investigating_officer": {
+        "Name": "Thiru. Nagarasu",
+        "Rank": "Head Constable (1165)",
+        "IPC_section": "U/S 4(1)(a) TNP Act",
+        "District": "Karur",
+        "Police_station": "Chinthamanipatti Police Station"
+      }
+    },
+    {
+      "FIR.No": "52/17",
+      "Date": "14-02-2017",
+      "Complainant_details": {
+        "Name": "K. Azhagar",
+        "Father's Name": "Karmegam",
+        "Age": "35",
+        "Address": "Thodukulam, Usilangulam Post, Sivagangai District",
+        "Contact_number": "9159019704",
+        "Political_Affiliation": "BJP"
+      },
+      "Accused_details": {
+        "Names": ["L. Kannan", "Murali", "Anand", "Senthamaraikannan"],
+        "Address": "Thodukulam, Usilangulam Post, Sivagangai District"
+      },
+      "Incident_details": {
+        "Date_time": "13-02-2017",
+        "Location": "Taluk Office, Kalayarkovil",
+        "Incident_name": "Verbal Abuse and Physical Assault",
+        "description": "The complainant was present at the Taluk Office for a public auction when the accused verbally abused his father and physically assaulted him by grabbing his shirt and attacking him.",
+        "Witnesses": "Local villagers present at the auction"
+      },
+      "Investigating_officer": {
+        "Name": "Subburayalu",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "U/S 294 (b), 323 IPC",
+        "District": "Sivagangai",
+        "Police_station": "Kalayarkovil Police Station"
+      }
+    },
+    {
+      "FIR.No": "32/2018",
+      "Date": "22-01-2018",
+      "Complainant_details": {
+        "Name": "P. Suresh",
+        "Address": "2/42, Vadakku Veethi, Karadivavi, Palladam T.K.",
+        "Contact_number": "99651 4113"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "20-06-2017, 09:00 AM",
+        "Location": "Somandhurai, Sithur, Pollachi-Valparai Main Road",
+        "Incident_name": "Road Accident & Death Report",
+        "description": "The complainant's brother Bhoopalakrishnan was involved in a road accident when a Tata ACE (TN 42 B 1003) collided with his TVS Apache (TN 42 C 2985). He sustained severe head injuries, underwent treatment at multiple hospitals, and later succumbed to his injuries on 22-01-2018.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "J. Amal Arockiadass",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "U/S 174 CRPC",
+        "District": "Tiruppur",
+        "Police_station": "Kamanayakkanpalayam Police Station"
+      }
+    },
+    {
+      "FIR.No": "72/2020",
+      "Date": "11-03-2020",
+      "Complainant_details": {
+        "Name": "Sivakumar",
+        "Address": "Alangudi Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Vinoth",
+        "Address": "Kunnanoor, Kurushethi South Street, Thiruthuraipoondi (TK), Thiruvarur District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "11-03-2020, 12:00 PM",
+        "Location": "Near Kallalangudi Arch",
+        "Incident_name": "Illegal Sand Transport",
+        "description": "During a routine vehicle check, a BharatBenz lorry (TN 55 BY 8118) carrying approximately 3 units of river sand was stopped. The driver, Vinoth, confessed that the sand was loaded from Viralimalai by Karthik and Suresh, who also provided a fake bill. Vinoth was arrested at 12:05 PM without coercion, and the lorry along with the fake bill was seized.",
+        "Witnesses": "Police officers Babu (1785) and Satheesh Kumar (2063)"
+      },
+      "Investigating_officer": {
+        "Name": "Sivakumar",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "U/S 379, 420 IPC and 21(1)(ii) Tamil Nadu Mines and Minerals Development Regulation Act 1957",
+        "District": "Pudukkottai",
+        "Police_station": "Alangudi Police Station"
+      }
+    },
+    {
+      "FIR.No": "01/C3/2017",
+      "Date": "02-01-2017",
+      "Complainant_details": {
+        "Name": "C. Karnan",
+        "Address": "No. 54, 21st Block, Ezhil Nagar, Chennai",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "01-01-2017, 03:30 PM",
+        "Location": "In front of Shop No. 28/342, Waltax Road, Chennai",
+        "Incident_name": "Road Accident",
+        "description": "The complainant, C. Karnan, and his relative, C. Bharath, were walking along the road when a high-speed and negligent motorbike (TN 04 AR 6027) hit them from behind. C. Bharath suffered head and mouth injuries and was taken to Government Stanley Hospital for treatment. The accused rider fled the scene.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "P. Devaraj",
+        "Rank": "Inspector",
+        "IPC_section": "U/S 337 IPC & 184 M.V. Act",
+        "District": "Chennai",
+        "Police_station": "C2 Elephant Gate Traffic Investigation Wing"
+      }
+    },
+    {
+      "FIR.No": "55/2018",
+      "Date": "24-01-2018",
+      "Complainant_details": {
+        "Name": "M. Venkatesan",
+        "Address": "Old No.7, New No.13, Nagavalliamman Kovil Street, Gandhi Nagar, Avadi, Chennai-54",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "24-01-2018, 03:00 PM",
+        "Location": "Complainant's residence, Avadi, Chennai",
+        "Incident_name": "Suicide by Hanging",
+        "description": "The complainant's second son, Murali, aged 31, was found hanging from a ceiling fan using his sister-in-law Gomathi’s saree. He had a habit of excessive drinking and was unmarried, leading to mental distress. The complainant and neighbors attempted to save him but found him deceased upon reaching Avadi Government Hospital. The complainant confirms no foul play and requests the body for final rites.",
+        "Witnesses": "Gomathi (sister-in-law) and neighbors"
+      },
+      "Investigating_officer": {
+        "Name": "Partheeban K",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "174 CRPC (Hanging)",
+        "District": "Chennai",
+        "Police_station": "T6 Avadi Police Station"
+      }
+    },
+    {
+      "FIR.No": "47/2019",
+      "Date": "12-02-2019",
+      "Complainant_details": {
+        "Name": "K.N. Venkatasalam",
+        "Address": "Chennimalai Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "12-02-2019, 02:00 PM",
+        "Location": "Surya Bakery, Chennimalai Bus Stand",
+        "Incident_name": "Suspicious Behavior & Arrest",
+        "description": "During a police patrol in Chennimalai, officers noticed suspects attempting to flee near Surya Bakery. Upon questioning, they provided inconsistent addresses. Suspecting potential criminal intent, the suspects were arrested at 2:00 PM and brought to the station at 2:30 PM. A case was registered under section 41(1)(a) of CrPC.",
+        "Witnesses": "Police party present at the scene"
+      },
+      "Investigating_officer": {
+        "Name": "K.N. Venkatasalam",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "41(1)(a) CrPC",
+        "District": "Erode",
+        "Police_station": "Chennimalai Police Station"
+      }
+    },
+    {
+      "FIR.No": "54/2020",
+      "Date": "22-04-2020",
+      "Complainant_details": {
+        "Name": "P. Murugan",
+        "Rank": "Assistant Inspector",
+        "Police_station": "Karumanthurai Police Station",
+        "District": "Salem",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Boopathi",
+          "Address": "unknown",
+          "Contact_number": "unknown"
+        },
+        {
+          "Name": "Sinthiraj",
+          "Address": "unknown",
+          "Contact_number": "unknown"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "22-04-2020, 05:00 PM",
+        "Location": "Near Kariyakovil Police Station",
+        "Incident_name": "Violation of COVID-19 Lockdown",
+        "description": "The accused were found violating the nationwide 144 curfew order issued by the Indian Government on 24-03-2020 to prevent the spread of COVID-19. Despite repeated warnings through television, newspapers, and public announcements, the accused were found loitering unnecessarily. They were arrested at 5:00 PM and brought to Karumanthurai Police Station for further legal action.",
+        "Witnesses": "Police team present at the scene"
+      },
+      "Investigating_officer": {
+        "Name": "P. Murugan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "188 IPC, 51-B Disaster Management Act 2005",
+        "District": "Salem",
+        "Police_station": "Karumanthurai Police Station"
+      }
+    },
+    {
+      "FIR.No": "79/2022",
+      "Date": "17-02-2022",
+      "Complainant_details": {
+        "Name": "Balakrishnan",
+        "Address": "1/596, Vallalar Nagar 2nd Street, Veerapandi, Tiruppur",
+        "Contact_number": "9865858546"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "13-02-2022, 10:30 AM",
+        "Location": "Koolanayakanpatti (At complainant’s aunt Balamani's house)",
+        "Incident_name": "Missing Person Report",
+        "description": "The complainant's mother, Malaiyamma (72), who was mentally unstable, left her aunt’s house on 13-02-2022 and has been missing since. Despite searching in various places, she was not found. The complainant requests police assistance in locating his missing mother.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "K. Sultan Ibrahim",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "Woman Missing Case",
+        "District": "Coimbatore",
+        "Police_station": "Gomangalam Police Station"
+      }
+    },
+    {
+      "FIR.No": "45/2023",
+      "Date": "19-01-2023",
+      "Complainant_details": {
+        "Name": "K. Subashini",
+        "Address": "Lalgudi Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Suguna",
+        "Address": "6/60, Anna Nagar, Sirudhayur, Lalgudi Taluk",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "19-01-2023, 17:10",
+        "Location": "Anna Nagar, Sirudhayur, Lalgudi",
+        "Incident_name": "Illegal Liquor Sale",
+        "description": "The accused was found illegally stocking and selling government liquor bottles at a higher price. Upon interrogation, the accused admitted to purchasing and reselling liquor without proper authorization. A total of seven 180ml bottles of 'Monitor' brand liquor were seized in the presence of police personnel.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "K. Subashini",
+        "Rank": "Assistant Inspector (Trainee)",
+        "IPC_section": "4(1)(a) TNP Act",
+        "District": "Trichy",
+        "Police_station": "Lalgudi Police Station"
+      }
+    },
+    {
+      "FIR.No": "28/2024",
+      "Date": "14-02-2024",
+      "Complainant_details": {
+        "Name": "Sulaiman",
+        "Address": "449, Madina Street, Theriruveli, Mudukulathur Taluk",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Palanisamy",
+        "Address": "Mahindi Village",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "14-02-2024, 08:45",
+        "Location": "Madurai to Rameswaram Main Road, near Meenakshi School, Chathirakudi",
+        "Incident_name": "Road Accident",
+        "description": "The complainant was riding a Honda Activa 125 (TN 65 BW 5067) and indicated a right turn near Commonkottai junction. The accused, riding a Splendor Plus (TN 65 BZ 9054) at high speed and carelessly, collided with the complainant’s vehicle, causing him to fall and sustain injuries on his right ankle. He was taken to Ramanathapuram Government Medical College Hospital for treatment.",
+        "Witnesses": "S.Mohamed Pareeth Gani"
+      },
+      "Investigating_officer": {
+        "Name": "M. Muneeshwaran",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "279, 337 IPC",
+        "District": "Ramanathapuram",
+        "Police_station": "Chathirakudi Police Station"
+      }
+    },
+    {
+      "FIR.No": "10/2025",
+      "Date": "11-01-2025",
+      "Complainant_details": {
+        "Name": "M. Hemalatha",
+        "Address": "No.9, Mariamman Kovil Street, Veerabogam Village, Cheyyur Taluk, Chengalpattu District",
+        "Contact_number": "6382763348"
+      },
+      "Accused_details": {
+        "Name": "Unknown (Driver of Hyundai i20 TN 19 AW 3663)",
+        "Address": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "10-01-2025, 11:15 AM",
+        "Location": "Near Government Hospital, Cheyyur, Chengalpattu District",
+        "Incident_name": "Road Accident",
+        "description": "The complainant's brother, M. Tamilvanan, was riding his Honda two-wheeler (TN 03 Y 6900) towards Veerabogam when a speeding Hyundai i20 (TN 19 AW 3663) coming from Ellaiamman Temple towards Sittamur hit his vehicle. The victim suffered severe head injuries, nasal bleeding, and wounds on his face and right hand. He was given first aid at Cheyyur Government Hospital and later transferred to Chengalpattu Government Hospital for further treatment. The victim is currently unconscious and undergoing intensive care.",
+        "Witnesses": "Unknown"
+      },
+      "Investigating_officer": {
+        "Name": "K. Boopalan",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "281, 125(b) of BNS",
+        "District": "Chengalpattu",
+        "Police_station": "G4 Cheyyur Police Station"
+      }
+    },
+    {
+      "FIR.No": "11/2025",
+      "Date": "16-01-2025",
+      "Complainant_details": {
+        "Name": "G. Kuppandi",
+        "Address": "No. 85, Kamarajar Nagar, Pallikonda, Anaikattu TK",
+        "Contact_number": "9087091950"
+      },
+      "Accused_details": {
+        "Name": "Unknown",
+        "Address": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "15-01-2025, 12:30 AM",
+        "Location": "Complainant's Residence, Pallikonda",
+        "Incident_name": "Missing Person (Woman)",
+        "description": "The complainant, G. Kuppandi, an electrician, reported that his wife, K. Dhanuja (24), who stays at home to take care of their two children, Yashwanth (4) and Rishi (3), went missing from their residence on 15-01-2025 at around 12:30 AM. Despite searching among relatives and neighbors, she was not found. The complainant has requested police assistance in locating her.",
+        "Witnesses": "Unknown"
+      },
+      "Investigating_officer": {
+        "Name": "B. Settu",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "Women Missing",
+        "District": "Vellore",
+        "Police_station": "Pallikonda Police Station"
+      }
+    },
+    {
+      "FIR.No": "45/2024",
+      "Date": "12-01-2024",
+      "Complainant_details": {
+        "Name": "V. Gurubaran",
+        "Address": "Kandachipuram Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Sivakumar",
+        "Address": "Mariamman Kovil Street, V. Puthupalayam Village, Kandachipuram Taluk, Villupuram District",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "12-01-2024, 18:40",
+        "Location": "Near Palanivel ITI, Kandachipuram",
+        "Incident_name": "Public Intoxication and Disorderly Conduct",
+        "description": "During a routine patrol near Palanivel ITI, the police team identified the accused, Sivakumar (35), consuming intoxicating liquor in a public place and behaving in an intoxicated manner, causing public disturbance. He was arrested at 18:40 hours in compliance with Supreme Court guidelines and taken to Kandachipuram Police Station at 19:00 hours for further legal action.",
+        "Witnesses": "Police team (Constables Subash and Jeeva)"
+      },
+      "Investigating_officer": {
+        "Name": "V. Gurubaran",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "4(A) TNP ACT",
+        "District": "Villupuram",
+        "Police_station": "Kandachipuram Police Station"
+      }
+    },
+    {
+      "FIR.No": "45/2024",
+      "Date": "12-01-2024",
+      "Complainant_details": {
+        "Name": "V. Gurubaran",
+        "Address": "Kandachipuram Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Sivakumar",
+        "Address": "Mariyamman Kovil Street, V. Pudupalayam Village, Kandachipuram Taluk, Villupuram District",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "12-01-2024, 18:40",
+        "Location": "Near Palanivel ITI, Kandachipuram",
+        "Incident_name": "Public Intoxication and Possession of Intoxicating Liquor",
+        "description": "During a routine patrol near Palanivel ITI, the police team noticed the accused, Sivakumar (35), under the influence of intoxicants in a public place. He was found consuming illicit liquor in a way that disturbed public peace. Upon questioning, he failed to provide a valid reason for his actions. He was arrested at 18:40, following all Supreme Court guidelines, and was taken to the Kandachipuram Police Station at 19:00 hours for further proceedings.",
+        "Witnesses": "Police team (Constables Subash and Jeeva)"
+      },
+      "Investigating_officer": {
+        "Name": "V. Gurubaran",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "4(A) TNP Act",
+        "District": "Villupuram",
+        "Police_station": "Kandachipuram Police Station"
+      }
+    },
+    {
+      "FIR.No": "83/2022",
+      "Date": "21-03-2022",
+      "Complainant_details": {
+        "Name": "Raman",
+        "Address": "Arithuvaramangalam Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": [
+          "Saranraj, Age: 31/22, S/O Shanmugam, Mulaiyur, Gnanammal Kovil Street, Thanjavur",
+          "Chandru, Age: 221/22, S/O Radhakrishnan, Melatheru, Chandrasekapuram, Valangaiman Taluk, Thiruvarur District"
+        ],
+        "Address": "Various Locations",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "21-03-2022, 03:00",
+        "Location": "Near Arithuvaramangalam Bus Stop",
+        "Incident_name": "Suspicious Activity and Arrest",
+        "description": "During a night patrol in Arithuvaramangalam jurisdiction, the police team noticed two individuals standing suspiciously near the bus stop. Upon questioning, they provided inconsistent and contradictory addresses. After further interrogation, they revealed their actual identities. Due to reasonable suspicion, they were arrested at 03:00 hours and taken to the police station at 03:30 hours for further investigation.",
+        "Witnesses": "Police team (Constables on patrol duty)"
+      },
+      "Investigating_officer": {
+        "Name": "Raman",
+        "Rank": "Head Constable",
+        "IPC_section": "41(2) CrPC",
+        "District": "Thiruvarur",
+        "Police_station": "Arithuvaramangalam Police Station"
+      }
+    },
+    {
+      "FIR.No": "41/2021",
+      "Date": "24-01-2021",
+      "Complainant_details": {
+        "Name": "Nagarajan",
+        "Address": "Kandamangalam Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": [
+          "Saranraj, S/O Shanmugam, Age 31, Residing at Gnanaammal Temple Street, Moolaiyur, Thanjavur",
+          "Santhru, S/O Radhakrishnan, Age 22, Residing at Melatheru, Chandrasekapuram, Valangaiman Taluk, Thiruvarur District"
+        ],
+        "Address": [
+          "Gnanaammal Temple Street, Moolaiyur, Thanjavur",
+          "Melatheru, Chandrasekapuram, Valangaiman Taluk, Thiruvarur District"
+        ],
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "24-01-2021, 04:00",
+        "Location": "Near Kandamangalam Bus Stand",
+        "Incident_name": "Suspicious Persons Arrested",
+        "description": "During a routine patrol near Kandamangalam Bus Stand, the police team noticed two individuals sitting with their faces covered with cloth. When questioned, they attempted to flee but were apprehended by the police. Upon further questioning, they provided inconsistent names and addresses before finally revealing their true identities. Due to their suspicious behavior and failure to provide a valid reason for their presence, they were arrested at 04:15 hours and taken to the police station at 04:30 hours for further inquiry.",
+        "Witnesses": "Police team (Patrolling officers)"
+      },
+      "Investigating_officer": {
+        "Name": "Nagarajan",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "41(i) CrPC",
+        "District": "Villupuram",
+        "Police_station": "Kandamangalam Police Station"
+      }
+    },
+    {
+      "FIR.No": "76/2020",
+      "Date": "07-05-2020",
+      "Complainant_details": {
+        "Name": "M. Sriram",
+        "Address": "Ilanchempoor Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Pandi, S/O Govindaraj",
+        "Age": 29,
+        "Address": "Sathayaneri",
+        "Vehicle_details": {
+          "Registration_no": "TN 63 BF 5812",
+          "Type": "FZS Two-Wheeler"
+        },
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "07-05-2020, 17:45",
+        "Location": "Melachirupodu Bus Stop",
+        "Incident_name": "Violation of COVID-19 Lockdown Rules",
+        "description": "During a routine patrol to enforce COVID-19 lockdown restrictions, the police team found the accused, Pandi (S/O Govindaraj), recklessly roaming on his two-wheeler despite repeated warnings. The accused knowingly violated Section 144 CrPC and endangered public health by ignoring government-imposed lockdown restrictions meant to prevent the spread of the coronavirus. He was arrested at the location at 17:45 and brought to the police station at 18:15 along with his vehicle.",
+        "Witnesses": "Police team (Patrolling officers)"
+      },
+      "Investigating_officer": {
+        "Name": "M. Sriram",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "188, 269, 270, 279 IPC r/w 3 of Epidemic Diseases Act 1897 & Disaster Management Act 51(b) 2005",
+        "District": "Ramanathapuram",
+        "Police_station": "Ilanchempoor Police Station"
+      }
+    },
+    {
+      "FIR.No": "3/2019",
+      "Date": "04-01-2019",
+      "Complainant_details": {
+        "Name": "Rajalakshmi, W/O Muthupandi",
+        "Address": "Thirunadu, Illuppur Taluk, Pudukkottai District",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Saddam Hussain",
+        "Address": "Pallivasal Street, Illuppur",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "03-01-2019, 18:25",
+        "Location": "Illuppur, Pudukkottai District",
+        "Incident_name": "Suspicious Death of Saranya",
+        "description": "Saranya, daughter of the complainant, went missing on 25-12-2018 along with another woman from her workplace. It was later discovered that she was in a relationship with Saddam Hussain and had traveled to Kerala. Upon returning, they attempted suicide by consuming poison due to fear of being separated. Saranya was admitted to multiple hospitals for treatment but succumbed to poisoning on 03-01-2019 at 18:25. The complaint was filed on 04-01-2019 at 07:00, leading to case registration under CrPC 174.",
+        "Witnesses": "Family members and medical staff"
+      },
+      "Investigating_officer": {
+        "Name": "Prakash",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "Section 174 CrPC",
+        "District": "Pudukkottai",
+        "Police_station": "Illuppur Police Station"
+      }
+    },
+    {
+      "FIR.No": "01/2017",
+      "Date": "01-01-2017",
+      "Complainant_details": {
+        "Name": " Sundaravadivel",
+        "Address": "Ottanchathiram Police Station, Dindigul District",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "01-01-2017, 03:00",
+        "Location": "Ottanchathiram Bus Stand, Dindigul District",
+        "Incident_name": "Suspicious Behavior and Possession of Wire",
+        "description": "During a night patrol, the police team noticed a suspicious individual near Ottanchathiram Bus Stand. The suspect attempted to flee but was caught. Initially, he provided false details, but after further inquiry, he revealed his real identity. A small wire was found in his possession. Since he failed to provide a valid reason for being there, he was arrested on suspicion and taken to the police station, where a case was registered under Section 41(1)(d) CrPC.",
+        "Witnesses": "Police team members"
+      },
+      "Investigating_officer": {
+        "Name": "Sundaravadivel",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "41(1)(d) CrPC",
+        "District": "Dindigul",
+        "Police_station": "Ottanchathiram Police Station"
+      }
+    },
+    {
+      "FIR.No": "02/2018",
+      "Date": "01-01-2018",
+      "Complainant_details": {
+        "Name": "K. Maruthamuthu",
+        "Address": "Palani Nagar Police Station, Dindigul District",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Durai, S/o Thannasi",
+        "Address": "Madurai Veeran Kovil Street, Palani",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "01-01-2018, 02:30",
+        "Location": "Near Sami Theatre, Palani-Udumalaipet Road",
+        "Incident_name": "Suspicious Behavior and False Identity",
+        "description": "During a night patrol, the police team noticed a suspicious individual near Sami Theatre. Upon seeing the police, he attempted to flee but was apprehended. Initially, he provided false identity details but later confirmed his real address. As he failed to give a valid reason for being there at that time, he was arrested as a preventive measure and brought to the station. A case was registered under Section 41(1)(d) CrPC, and he was later remanded after a detailed inquiry.",
+        "Witnesses": "Police team members"
+      },
+      "Investigating_officer": {
+        "Name": "K. Maruthamuthu",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "41(1)(d) CrPC",
+        "District": "Dindigul",
+        "Police_station": "Palani Nagar Police Station"
+      }
+    },
+    {
+      "FIR.No": "20/2017",
+      "Date": "07-02-2017",
+      "Complainant_details": {
+        "Name": "Nicholas Jain",
+        "Address": "Erumadu Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "07-02-2017 - 02:00",
+        "Location": "Kottur Ration Shop",
+        "Incident_name": "Suspicious Activity and Arrest",
+        "description": "While on night patrol, the officer observed a suspicious individual standing near the Kottur ration shop. Upon noticing the police, the individual attempted to flee but was apprehended. During questioning, the suspect provided conflicting information about his identity and address, raising suspicion. Concerned that he might commit an offense if left unchecked, the police arrested him at 02:00 hrs. The arrest details were communicated to his relatives, and he was taken to the station at 02:30 hrs for further verification. A case was registered under Cr No: 20/2017, U/S 41(I) CRPC. The original FIR was sent to the Judicial Magistrate, Pandalur, and copies were forwarded to the relevant higher authorities.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Nicholas Jain",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "41(I) CRPC",
+        "District": "Nilgiris",
+        "Police_station": "Erumadu Police Station"
+      }
+    },
+    {
+      "FIR.No": "78/2018",
+      "Date": "18-03-2018",
+      "Complainant_details": {
+        "Name": "Venkatesan",
+        "Address": "Sub- inspector",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-03-2018 - 04:00",
+        "Location": "Perambakkam Bus Stand",
+        "Incident_name": "Suspicious Activity and Arrest",
+        "description": "During patrol in Mappedu and Kondancheri, the police noticed two individuals hiding near Perambakkam Bus Stand. Upon spotting the police, they attempted to flee but were apprehended. When questioned, they failed to provide a valid reason for their presence at the location. Suspecting that they intended to commit a crime, they were arrested at 04:00 hrs and taken to the station at 05:00 hrs for further inquiry. The case was registered under Cr No: 78/2018, U/S 41(1)(a) CrPC. The FIR was sent to the relevant higher authorities for further action.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Venkatesan K",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "41(1)(a) CrPC",
+        "District": "unknown",
+        "Police_station": "B6- Mappedu Police Station"
+      }
+    },
+    {
+      "FIR.No": "71/2019",
+      "Date": "24-03-2019",
+      "Complainant_details": {
+        "Name": "A. Great Churchil Jebaraj",
+        "Address": "Election Flying Squad No. III, Kadayam Constituency",
+        "Contact_number": "9715607290"
+      },
+      "Accused_details": {
+        "Name": "Ponnusamy",
+        "Address": "Valliyammalpuram, Nainarkulam Panchayat",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "24-03-2019 - 17:20",
+        "Location": "Valliyammalpuram, Nainarkulam Panchayat",
+        "Incident_name": "Election Code Violation - Unauthorized Party Flag Display",
+        "description": "During a field inspection at Valliyammalpuram village, the Election Flying Squad noticed a flag of the Puthiya Tamizhagam party hoisted on a pole in violation of election conduct rules. Despite instructions to remove it, the flag remained. A case was registered against Ponnusamy, the local branch secretary of the Puthiya Tamizhagam party, under Cr No: 71/19 U/S 283 IPC and Section 4 of TNOPDL Act.",
+        "Witnesses": "SSI455 Ganesan, HC 2559 Sundarapandi, PC 2856 Rajesh, PC 4064 Muthuraja"
+      },
+      "Investigating_officer": {
+        "Name": "G. Muthupandi",
+        "Rank": "Head Constable (HC 1651)",
+        "IPC_section": "283 IPC, 4 of TNOPDL Act",
+        "District": "Tenkasi",
+        "Police_station": "Elahtur Police Station"
+      }
+    },
+    {
+      "FIR.No": "22/2020",
+      "Date": "27-01-2020",
+      "Complainant_details": {
+        "Name": "T. Ranjithkumar",
+        "Address": "RTR Residency, Vijayagopalapuram Village, Alathur Taluk, Perambalur District",
+        "Contact_number": "8610418649"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "27-01-2020 - 04:00",
+        "Location": "RTR Residency, Vijayagopalapuram Village, Alathur Taluk, Perambalur District",
+        "Incident_name": "Burglary - Theft of Valuables",
+        "description": "On 26-01-2020 at 23:30, the complainant's mother returned home from Tiruchirapalli and placed various gold jewelry items, cash (Rs. 30,000), and a Google Pixel cellphone in a bag inside the bedroom cupboard before sleeping. On 27-01-2020 at 04:00, she noticed light coming through an open bedroom window and alerted the complainant. Upon inspection, they found that an unknown individual had opened the window, taken the valuables from the bag, and left the bag behind. The estimated total value of the stolen items is approximately Rs. 1,06,000.",
+        "Witnesses": "Radha (Complainant's Mother)"
+      },
+      "Investigating_officer": {
+        "Name": "G. Muthupandi",
+        "Rank": "Head Constable (HC 1651)",
+        "IPC_section": "380 IPC",
+        "District": "Perambalur",
+        "Police_station": "Padalur Police Station"
+      }
+    },
+    {
+      "FIR.No": "81/2021",
+      "Date": "17-01-2021",
+      "Complainant_details": {
+        "Name": "R. Jeevanandham",
+        "Rank": "Assistant Inspector",
+        "Police_station": "Pudupattinam Police Station",
+        "District": "Sirkazhi"
+      },
+      "Accused_details": {
+        "Name": "Mohan",
+        "Age": "25",
+        "Father's Name": "Periyasamy",
+        "Address": "Pudutheru, Thanduvankulam, Sirkazhi Taluk"
+      },
+      "Incident_details": {
+        "Date_time": "17-01-2021 - 08:00",
+        "Location": "Pudutheru, Thanduvankulam, Sirkazhi Taluk",
+        "Incident_name": "Possession and Illegal Sale of Liquor",
+        "description": "On 17-01-2021 at 08:00, Assistant Inspector R. Jeevanandham, along with HC 731 Hariharan and PC 1027 Thujenthan, were monitoring prohibition activities near the backside of the accused's house at Thanduvankulam Pudutheru. The accused, Mohan, was found in possession of three 180ml bottles of DAY NIGHT brandy and was pouring liquor for a nearby individual. Upon seeing the police, he attempted to escape but was caught. When questioned, he admitted to possessing the liquor without any legal permit. The bottles were seized in the presence of police officers at 08:15, and under the orders of the Inspector, the seized liquor was destroyed at the scene at 08:30. The accused was arrested at 08:00 and brought to the police station at 09:00, where a case was registered under 4(1)(K) TNP ACT.",
+        "Witnesses": "HC 731 Hariharan, PC 1027 Thujenthan"
+      },
+      "Investigating_officer": {
+        "Name": "R. Jeevanandham",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1)(K) TNP ACT",
+        "District": "Sirkazhi",
+        "Police_station": "Pudupattinam Police Station"
+      }
+    },
+    {
+      "FIR.No": "12/2022",
+      "Date": "09-01-2022",
+      "Complainant_details": {
+        "Name": "State Representative",
+        "Address": "Kedar Police Station, Villupuram District",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Kumar",
+        "Father's Name": "Kaliamurthy",
+        "Address": "South Street, Sellankuppam Village, Villupuram District",
+        "Vehicle": "PY-01 N-3115, KAWASAKI Two-Wheeler"
+      },
+      "Incident_details": {
+        "Date_time": "09-01-2022 - 12:20",
+        "Location": "Kedar Bazaar, Villupuram District",
+        "Incident_name": "Violation of COVID-19 Lockdown Orders",
+        "description": "On 09-01-2022 at 12:15 PM, during lockdown monitoring, Assistant Inspector Ravi along with Head Constable 800 Jayaganesh and Police Constable 326 Mahesh observed Kumar traveling unnecessarily without a mask on PY-01 N-3115, violating government lockdown orders, potentially spreading COVID-19. He was arrested at 12:20 PM, and his vehicle was seized.",
+        "Witnesses": "Head Constable 800 Jayaganesh, Police Constable 326 Mahesh"
+      },
+      "Investigating_officer": {
+        "Name": "Ravi",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "269 IPC r/w 3 of Epidemic Disease Act 1897 & r/w sec 51 of The Disaster Management Act",
+        "District": "Villupuram",
+        "Police_station": "Kedar Police Station"
+      }
+    },
+    {
+      "FIR.No": "71/2023",
+      "Date": "08-05-2023",
+      "Complainant_details": {
+        "Name": "S. Hariharan",
+        "Address": "17/2098, V.P. Kovil Street, Thanjavur",
+        "Contact_number": "9080891574"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "07-05-2023 - 11:00 to 12:00",
+        "Location": "Vaishnavi Garden, Plot No. 18, Thanjavur",
+        "Incident_name": "Theft of Two-Wheeler",
+        "description": "On 07-05-2023 at around 11:00 AM, the complainant parked his two-wheeler (Scooty Pep TN49BK3072) in front of his construction site at Vaishnavi Garden, Plot No. 18. After attending to work inside, he returned around 12:00 PM and found his vehicle missing. Despite searching the surrounding area, he could not locate it. The estimated value of the stolen vehicle is unknown.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "A. Thomas Alexander",
+        "Rank": "Special Sub-Inspector (SSI)",
+        "IPC_section": "379 IPC",
+        "District": "Thanjavur",
+        "Police_station": "Kallaperambur Police Station"
+      }
+    },
+    {
+      "FIR.No": "54/2024",
+      "Date": "09-02-2024",
+      "Complainant_details": {
+        "Name": "Banu",
+        "Address": "No. 14/61, Poondhottam, Krishnagiri",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "07-02-2024 - 09:30 PM",
+        "Location": "Bismillah Chicken Center, Anna Nagar, Hosur",
+        "Incident_name": "Death Due to Fall Down",
+        "description": "Munnah, in an intoxicated state, fell from the stairs and suffered a head injury. He was taken to the hospital at 07:00 AM on 08-02-2024. Despite treatment, he passed away at 07:30 PM on 08-02-2024.",
+        "Witnesses": "Sardar (Shop Owner)"
+      },
+      "Investigating_officer": {
+        "Name": "Murugesan",
+        "Rank": "Special Police Assistant",
+        "IPC_section": "174 CrPC",
+        "District": "Krishnagiri",
+        "Police_station": "Hosur Town Police Station"
+      }
+    },
+    {
+      "FIR.No": "20/2025",
+      "Date": "08-02-2025",
+      "Complainant_details": {
+        "Name": "B. Rajkumar",
+        "Address": "Abiramam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Bos, S/o Marimadan",
+        "Address": "Perungarunai Village, Mudukulathur Taluk",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "08-02-2025 - 13:30",
+        "Location": "Bos's petty shop, Perungarunai Village, Mudukulathur Taluk",
+        "Incident_name": "Illegal Sale of Banned Tobacco Products",
+        "description": "Bos was found selling banned tobacco products, including 15 packets of 'Ganesh 701 Tobacco' (15 grams each), at his petty shop. He admitted to selling them for profit to both adults and minors.",
+        "Witnesses": "Police party members - Head Constable 1386 Maheswaran and Constable 2663 Muthukrishnan"
+      },
+      "Investigating_officer": {
+        "Name": "B. Rajkumar",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "24(1) r/w 6(a) of Cigarettes and Other Tobacco Products Act, 2003",
+        "District": "Ramanathapuram",
+        "Police_station": "Abiramam Police Station"
+      }
+    },
+    {
+      "FIR.No": "09/2025",
+      "Date": "23-01-2025",
+      "Complainant_details": {
+        "Name": "P. Harikrishnan",
+        "Address": "No. 5/497, Near Halo Block Shop, Thuraiyur Main Road, Jembunathapuram, Musiri Taluk, Tiruchirappalli District",
+        "Contact_number": "84891-05196"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "22-01-2025 - 19:00 to 23-01-2025 - 05:00",
+        "Location": "Hari Welding Works, near Gas Godown, Jembunathapuram",
+        "Incident_name": "Theft at Welding Workshop",
+        "description": "Unknown persons broke into the complainant's welding workshop by breaking the lock and stole multiple welding machines and tools, including a 14-inch cutting machine, 4-inch cutting machine, grinding machine, hand drilling machine, welding machine, battery drilling machine, water motor, digital weighing machine, spanner tools, welding cables, and wire box.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "S. Kumar",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "331(4), 305 BNS",
+        "District": "Tiruchirappalli",
+        "Police_station": "Jembunathapuram Police Station"
+      }
+    },
+    {
+      "FIR.No": "91/2024",
+      "Date": "21-03-2024",
+      "Complainant_details": {
+        "Name": "A. Govindaraj",
+        "Address": "Vazhakkuttaiyanthoppu, Ambukovil, Karambakudi Taluk, Pudukkottai District",
+        "Contact_number": "9363561877"
+      },
+      "Accused_details": {
+        "Name": "Unknown",
+        "Address": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "21-03-2024 - 19:00",
+        "Location": "Gandharvakottai - Pattukkottai Road, in front of Matangkal Vasudevan’s house",
+        "Incident_name": "Road Accident Injury",
+        "description": "While traveling back home from Kandharvakottai on a Hero Splendor+ (TN 01 BC 3730), the complainant’s mother, Sornam (59), felt dizzy and fell from the vehicle, sustaining a head injury with bleeding from the ear. She was first treated at Kandharvakottai GH and later referred to Thanjavur Medical College for further treatment.",
+        "Witnesses": "Murugesan (brother of the complainant), Prakash (nephew of the complainant)"
+      },
+      "Investigating_officer": {
+        "Name": "Kesavamoorthy",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "279, 337 IPC",
+        "District": "Pudukkottai",
+        "Police_station": "Kandharvakottai Police Station"
+      }
+    },
+    {
+      "FIR.No": "18/2023",
+      "Date": "19-02-2023",
+      "Complainant_details": {
+        "Name": "M. Thamimul Ansari",
+        "Address": "1/44, North Street, Eppodumvendran, Ottapidaram Taluk, Thoothukudi District",
+        "Contact_number": "7904625715"
+      },
+      "Accused_details": {
+        "Name": "Kanagaraj (S/o Thenraj), Siva (Grandson of Muniyammal)",
+        "Address": "Eppodumvendran, Nadutheru",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-02-2023 - 23:30 to 19-02-2023 - 02:00",
+        "Location": "1/44, North Street, Eppodumvendran, Thoothukudi District",
+        "Incident_name": "House Break-in & Mobile Theft",
+        "description": "The complainant and his colleague, Balamurugan, were asleep in their rented house when they heard a noise. Upon turning on the light, they saw Kanagaraj and Siva running away. On checking, they found that three mobile phones (VIVO Y33S, VIVO Y91, and OPPO A76) worth approximately ₹44,000 were stolen. The complainant requests the retrieval of the stolen items.",
+        "Witnesses": "Balamurugan"
+      },
+      "Investigating_officer": {
+        "Name": "G.K. Gurusamyraja",
+        "Rank": "Head Constable",
+        "IPC_section": "457, 380 IPC",
+        "District": "Thoothukudi",
+        "Police_station": "Eppodumvendran Police Station"
+      }
+    },
+    {
+      "FIR.No": "05/22",
+      "Date": "21-01-2022",
+      "Complainant_details": {
+        "Name": "K. Marikani",
+        "Address": "5/40, Saradha Nagar, Thiruvathavur, Madurai",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Unknown",
+        "Address": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "21-01-2022 - 06:30",
+        "Location": "Near Nedungulam Railway Gate, Thiruvathavur, Madurai",
+        "Incident_name": "Railway Accident - Death",
+        "description": "The complainant's son, Pandiswaran (aged 31), who had suffered memory loss due to a previous accident, was found dead on the railway track near Nedungulam Railway Gate. The complainant states that there is no suspicion regarding his son's death and requests necessary actions for the post-mortem and further procedures.",
+        "Witnesses": "Balamurugan (Elder Brother)"
+      },
+      "Investigating_officer": {
+        "Name": "A. Sundararajan",
+        "Rank": "Sub Inspector",
+        "IPC_section": "174 CrPC",
+        "District": "Madurai",
+        "Police_station": "Madurai Railway Police Station"
+      }
+    },
+    {
+      "FIR.No": "40/2021",
+      "Date": "21-01-2021",
+      "Complainant_details": {
+        "Name": "Shanmugam",
+        "Rank": "Sub-Inspector",
+        "Police_station": "Cheyyur Police Station",
+        "District": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Unknown",
+        "Address": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "21-01-2021 - 01:15",
+        "Location": "Near Navalakshmi Jewellery Shop, Muriandampalayam Road",
+        "Incident_name": "Suspicious Behavior - Preventive Arrest",
+        "description": "During a night patrol, the police team noticed a person covering his face and standing suspiciously. When approached, he attempted to escape but was caught and interrogated. The accused initially gave contradictory details and had no valid reason for being present at the location. As a preventive measure, he was arrested under Section 41(ii) CrPC to prevent any potential criminal activity.",
+        "Witnesses": "Police Team"
+      },
+      "Investigating_officer": {
+        "Name": "Shanmugam",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "41(ii) CrPC",
+        "District": "Tiruppur",
+        "Police_station": "Cheyyur Police Station"
+      }
+    },
+    {
+      "FIR.No": "66/2020",
+      "Date": "23-02-2020",
+      "Complainant_details": {
+        "Name": "gandhi K",
+        "Rank": "Assistant Sub-Inspector",
+        "Police_station": "Umrapath Police Station"
+      },
+      "Accused_details": {
+        "Name": "Unknown",
+        "Address": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "23-02-2020 - 03:00",
+        "Location": "Near ATM, Thuthipattu Village",
+        "Incident_name": "Suspicious Behavior - Preventive Arrest",
+        "description": "During a night patrol, the police team observed suspicious individuals near an ATM in Thuthipattu Village. Upon questioning, they gave conflicting name and address details and later admitted their identity. They could not provide a valid reason for their presence at the location. To prevent any potential criminal activity, they were arrested under Section 41(1)(a) CrPC.",
+        "Witnesses": "Police Team"
+      },
+      "Investigating_officer": {
+        "Name": "Gandhi k",
+        "Rank": "Assistant Sub-Inspector",
+        "IPC_section": "41(1)(a) CrPC",
+        "District": "Thirupathur",
+        "Police_station": "Umrapath Police Station"
+      }
+    },
+    {
+      "FIR.No": "90/2019",
+      "Date": "13-04-2019",
+      "Complainant_details": {
+        "Name": "B. Yazhisai Selvan",
+        "Name Category": "Police Officer",
+        "Rank": "Sub-Inspector",
+        "Police_station": "Ayyakudi Police Station",
+        "District": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Ganesh",
+        "Name Category": "Accused",
+        "Age": "24",
+        "Father's Name": "Chandraraman",
+        "Address": "South Garden, TKN Pudur, Palani Taluk",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "13-04-2019 - 03:00",
+        "Location": "Near Railway Gate, Ayyakudi to TKN Pudur Road",
+        "Incident_name": "Suspicious Behavior - Preventive Arrest",
+        "description": "During a night patrol, the police team observed a suspicious individual near the railway gate. Upon questioning, he provided conflicting name and address details before finally revealing his identity as Ganesh, son of Chandraraman, from TKN Pudur. As he could not provide a valid reason for his presence at the location, he was arrested under Section 41(2) CrPC to prevent any potential criminal activity.",
+        "Witnesses": "Police Team"
+      },
+      "Investigating_officer": {
+        "Name": "B. Yazhisai Selvan",
+        "Name Category": "Investigating Officer",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "41(2) CrPC",
+        "District": "Dindigul",
+        "Police_station": "Ayyakudi Police Station"
+      }
+    },
+    {
+      "FIR.No": "92/2018",
+      "Date": "13-07-2018",
+      "Complainant_details": {
+        "Name": "Amudha",
+        "Address": "Sathirapatti Police Station, Dindigul",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Rajesh, Viji, Vinoth",
+        "Address": "Periyapillai Govindapuram, Kerala; Iqbal Street, Pudukkottai; SSL Dayampathi, Palakkad, Kerala",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "13-07-2018 03:15 AM",
+        "Location": "Near Kandasamy Hotel, Sathirapatti, Dindigul",
+        "Incident_name": "Suspicious Activity and Possession of Iron Tools",
+        "description": "During a night patrol, three individuals were found hiding in the dark near Kandasamy Hotel. Upon questioning, they gave conflicting answers and were found in possession of cutting blades, chisels, and other iron tools, raising suspicion of criminal intent.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Amudha",
+        "Rank": "Inspector of Police",
+        "IPC_section": "41(1)(d) Cr.PC",
+        "District": "Dindigul",
+        "Police_station": "Sathirapatti Police Station"
+      }
+    },
+    {
+      "FIR.No": "89/2017",
+      "Date": "28-04-2017",
+      "Complainant_details": {
+        "Name": "P. Geetha",
+        "Address": "Aaviyur Police Station, Virudhunagar",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Ganesan",
+        "Address": "Naganeenthal, Kariyapatti Taluk, Virudhunagar District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "28-04-2017 00:30 AM",
+        "Location": "Near Naganeenthal Bus Stop, Virudhunagar",
+        "Incident_name": "Suspicious Activity and Attempt to Flee",
+        "description": "During a night patrol, the accused attempted to flee upon noticing the police team. Upon questioning, he gave conflicting details about his identity and was unable to provide a valid reason for being present at that hour, leading to his preventive arrest.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "P. Geetha",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "41(1)(a) Cr.PC @ 109 Cr.PC",
+        "District": "Virudhunagar",
+        "Police_station": "Aaviyur Police Station"
+      }
+    },
+    {
+      "FIR.No": "01/2019",
+      "Date": "02-01-2019",
+      "Complainant_details": {
+        "Name": "Palani Samy",
+        "Address": "Idayakottai Police Station, Dindigul",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": [
+          "Palani Samy",
+          "Siva",
+          "Ramu",
+          "Chandhanavel",
+          "Ravichandran",
+          "Selvaraj",
+          "Abdul Muthalib"
+        ],
+        "Address": [
+          "Sri Rangan Koundanpudur",
+          "Kalanchipatti, Oddanchatram",
+          "Devasinnampatti, Oddanchatram",
+          "Chinna Kulippatti, Idayakottai",
+          "Chinna Kulippatti, Idayakottai",
+          "Moyyandi Koundanpudur, Idayakottai",
+          "Nehruji Nagar, Vedasandur"
+        ],
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "02-01-2019 16:30",
+        "Location": "Mallaiyapuram Karungulam, Dindigul",
+        "Incident_name": "Illegal Betting on Rooster Fight",
+        "description": "During a patrol, the accused were found organizing a rooster fight and betting ₹1400. The police team surrounded and arrested them. Due to the absence of independent witnesses, the seized items and accused were brought to the station.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Palani Samy",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "12 OF TNG ACT",
+        "District": "Dindigul",
+        "Police_station": "Idayakottai Police Station"
+      }
+    },
+    {
+      "FIR.No": "03/2025",
+      "Date": "02-01-2025",
+      "Complainant_details": {
+        "Name": "S. Sivasuriya",
+        "Address": "No. 3/2, Veeraraghavan Street, Arisipalayam, Salem District - 636009",
+        "Contact_number": "8438280599"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "02-01-2025 23:55",
+        "Location": "SF, 2nd Floor, Block No.5, Jain Sukruti Apartments, Rettipalaiyam Road, Mogappair West, Chennai-37",
+        "Incident_name": "Suicide by Hanging",
+        "description": "The deceased, R. Ramaprakash, had financial distress due to debts. His friend Ramesh informed the complainant that he was found hanging in his residence. A handwritten note was found nearby stating that he was committing suicide due to excessive debt. The body was found lowered and confirmed dead by 108 ambulance personnel.",
+        "Witnesses": "Ramesh, Security of the Apartment"
+      },
+      "Investigating_officer": {
+        "Name": "S. Sadaiyandi",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "194 BNSS (Hanging)",
+        "District": "Chennai",
+        "Police_station": "T2 Ambattur Estate Police Station"
+      }
+    },
+    {
+      "FIR.No": "82/2018",
+      "Date": "28-01-2018",
+      "Complainant_details": {
+        "Name": "Immanuvel",
+        "Address": "M8 Sathangadu Police Station",
+        "Contact_number": "Unknown"
+      },
+      "Accused_details": {
+        "Name": "Unknown (Group of suspects)",
+        "Address": "Unknown",
+        "Contact_number": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "28-01-2018 03:00",
+        "Location": "Sadayankuppam, Sathangadu Police Limits",
+        "Incident_name": "Suspicious behavior and attempt to flee",
+        "description": "A group of suspects were found standing suspiciously in the area. Upon seeing the police, they attempted to flee but were apprehended. Upon inquiry, they provided conflicting statements and could not justify their presence in the location. Based on reasonable suspicion, they were arrested at 03:00 and taken to the police station at 03:30 for further investigation.",
+        "Witnesses": "Police party (PC 43572, PC 40289)"
+      },
+      "Investigating_officer": {
+        "Name": "Immanuvel",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "41(1) CrPC Act",
+        "District": "Chennai",
+        "Police_station": "M8 Sathangadu Police Station"
+      }
+    },
+    {
+      "FIR.No": "43/22",
+      "Date": "17-02-2022",
+      "Complainant_details": {
+        "Name": "S. Sathiyaseelan",
+        "Father's Name": "Subramanian",
+        "Age": "30",
+        "Address": "No. 61, Kakkam Street, A. Mettur, Veppanthattai (TK), Perambalur (DT)",
+        "Contact_number": "9025446512"
+      },
+      "Accused_details": {
+        "Name": "Anand",
+        "Father's Name": "Palanimuthu",
+        "Address": "A. Mettur, Veppanthattai (TK), Perambalur (DT)",
+        "Vehicle_number": "TN 46 D 4143",
+        "Vehicle_type": "Harvester"
+      },
+      "Incident_details": {
+        "Date_time": "17-02-2022 10:15 AM",
+        "Location": "Vijayapuram to Arumbavur Road, A. Mettur",
+        "Incident_name": "Road accident causing death",
+        "description": "The complainant's daughter Yazhika was standing on the roadside when the accused Anand drove the harvester TN 46 D 4143 at high speed and carelessly hit the child. The complainant's wife rushed to check on the child, found no external injuries, but noticed the child was not breathing. The child was taken to Perambalur GH at 11:15 AM, where doctors declared her dead.",
+        "Witnesses": "Ramya (Mother of Yazhika)"
+      },
+      "Investigating_officer": {
+        "Name": "S. Vinothkannan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "279, 304(A) IPC",
+        "District": "Perambalur",
+        "Police_station": "Arumbavur Police Station"
+      }
+    },
+    {
+      "FIR.No": "90/2017",
+      "Date": "09-06-2017",
+      "Complainant_details": {
+        "Name": "Saraswathi",
+        "Age": "60",
+        "Husband's Name": "Kaliyaperumal",
+        "Address": "Mandhakarai Street, Poombuhar, 92 Keelayur"
+      },
+      "Accused_details": {
+        "Name": "Balasubramanian",
+        "Relation_to_Victim": "Son",
+        "Occupation": "Tender Coconut Vendor",
+        "Address": "Poombuhar, 92 Keelayur"
+      },
+      "Victim_details": {
+        "Name": "Kaliyaperumal",
+        "Age": "65",
+        "Relation_to_Complainant": "Husband",
+        "Injury": "Multiple head injuries from wooden log attack",
+        "Hospital_treatment": [
+          {
+            "Hospital": "Mayiladuthurai Government Hospital",
+            "Status": "Referred to Thiruvarur Medical College Hospital"
+          },
+          {
+            "Hospital": "Thiruvarur Medical College Hospital",
+            "Status": "Deceased at 08:45 AM on 09-06-2017"
+          }
+        ]
+      },
+      "Incident_details": {
+        "Date_time": "08-06-2017 05:30 PM",
+        "Location": "Mandhakarai Street, Poombuhar",
+        "Incident_name": "Murder due to property dispute",
+        "description": "The accused, Balasubramanian, frequently quarreled with his parents over property inheritance. On 08-06-2017 at 05:30 PM, he came home intoxicated, argued with his mother Saraswathi, and attacked her husband Kaliyaperumal with a wooden log, striking multiple times on the head and hands. Neighbors tried to intervene but were threatened. The victim was hospitalized but succumbed to injuries on 09-06-2017 at 08:45 AM."
+      },
+      "Witnesses": [
+        {
+          "Name": "Jayakumar",
+          "Relation": "Neighbor",
+          "Son": "Murthy"
+        },
+        {
+          "Name": "Local residents",
+          "Relation": "Eyewitnesses"
+        }
+      ],
+      "Investigating_officer": {
+        "Name": "Kavitha",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "294(b), 324, 307 & 302 IPC",
+        "District": "Mayiladuthurai",
+        "Police_station": "Poombuhar Police Station"
+      }
+    },
+    {
+      "FIR.No": "33/2018",
+      "Date": "22-04-2018",
+      "Complainant_details": {
+        "Name": "R. Rajasekaran",
+        "Address": "Kariyappattinam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Selvam",
+        "Address": "Vadakkukuthagai, Ayakkaranpulam-1, Vedaranyam Taluk",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "22-04-2018 11:30 AM",
+        "Location": "Near Maruthur North TASMAC Shop No. 5718",
+        "Incident_name": "Illegal Alcohol Sale",
+        "description": "During surveillance, police noticed suspicious activity behind a shed near TASMAC Shop No. 5718. Upon checking, individuals fled, but Selvam was apprehended for illegally allowing people to consume government liquor and collecting money.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "R. Rajasekaran",
+        "Rank": "Inspector",
+        "IPC_section": "4(1)(k) TNP Act 1937",
+        "District": "Nagapattinam",
+        "Police_station": "Kariyappattinam Police Station"
+      }
+    },
+    {
+      "FIR.No": "55/2019",
+      "Date": "10-03-2019",
+      "Complainant_details": {
+        "Name": "K. Maruthu",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Murugesan",
+          "Address": "49/19, S/o. Pandi, Veppankulam",
+          "Contact_number": "unknown"
+        },
+        {
+          "Name": "Palani",
+          "Address": "39/19, S/o. Mookkaiya, Achani",
+          "Contact_number": "unknown"
+        },
+        {
+          "Name": "Thavasimani",
+          "Address": "28/19, S/o. Ayyakannu, Veppankulam",
+          "Contact_number": "unknown"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "10-03-2019 15:00",
+        "Location": "Near Veppankulam Sethupathi Garden",
+        "Incident_name": "Illegal Gambling",
+        "description": "Three individuals were caught gambling with a set of 52 lottery sheets, using Rs. 100 each for betting. Upon noticing the police, they attempted to flee but were captured and arrested as per the Supreme Court order. The confiscated items were documented in the presence of police officers and submitted at the police station.",
+        "Witnesses": "Police Officers"
+      },
+      "Investigating_officer": {
+        "Name": "K. Maruthu",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "12 OF TNG ACT",
+        "District": "Sivagangai",
+        "Police_station": "Kallal Police Station"
+      }
+    },
+    {
+      "FIR.No": "58/2020",
+      "Date": "03-02-2020",
+      "Complainant_details": {
+        "Name": "S. Kalaiselvi",
+        "Address": "North Street, Kaliyakudi, Nannilam Taluk",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Balu",
+          "Address": "unknown",
+          "Contact_number": "unknown"
+        },
+        {
+          "Name": "Manimegalai",
+          "Address": "unknown",
+          "Contact_number": "unknown"
+        },
+        {
+          "Name": "Venkatesan",
+          "Address": "unknown",
+          "Contact_number": "unknown"
+        },
+        {
+          "Name": "Kamaraj",
+          "Address": "unknown",
+          "Contact_number": "unknown"
+        },
+        {
+          "Name": "Dhanalakshmi",
+          "Address": "unknown",
+          "Contact_number": "unknown"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "31-01-2020 01:30",
+        "Location": "North Street, Kaliyakudi",
+        "Incident_name": "Physical Assault and Threat",
+        "description": "The complainant was assaulted and threatened by a group of individuals due to a dispute. She suffered internal injuries and was admitted to Mayiladuthurai Government Hospital for treatment. The police recorded her statement and registered a case.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Kabilan",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "294(b), 323, 506(1) IPC",
+        "District": "Tiruvarur",
+        "Police_station": "Peralam Police Station"
+      }
+    },
+    {
+      "FIR.No": "24/2021",
+      "Date": "14-01-2021",
+      "Complainant_details": {
+        "Name": "Ilangovan",
+        "Address": "Manikandam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Murugan",
+          "Address": "2/105, Kolukattakudi Aathupalam, Trichy",
+          "Contact_number": "unknown"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "14-01-2021 12:30",
+        "Location": "Murugan Petti Shop, Kolukattakudi Aathupalam, Trichy",
+        "Incident_name": "Illegal Sale of Banned Tobacco Products",
+        "description": "The accused was found in possession of five packets of banned Ganesh tobacco products with the intent to sell for profit, which is harmful to public health. The accused was arrested at 12:45 PM, and the evidence was seized in the presence of the police party. The case was registered under U/S 6(b) r/w 24(1) COTPA Act and handed over for further legal proceedings.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Ilangovan",
+        "Rank": "Special Sub-Inspector",
+        "IPC_section": "6(b) r/w 24(1) COTPA Act",
+        "District": "Tiruchirappalli",
+        "Police_station": "Manikandam Police Station"
+      }
+    },
+    {
+      "FIR.No": "56/2022",
+      "Date": "21-02-2022",
+      "Complainant_details": {
+        "Name": "Kaliyaperual G",
+        "Address": "Nagapattinam Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": [
+        {
+          "Name": "Kavitha",
+          "Age": "30",
+          "Father_Name": "Sathasivam",
+          "Address": "Annanagar Akkaraikulam, Nagapattinam",
+          "Contact_number": "unknown"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "21-02-2022 09:00",
+        "Location": "Annanagar Akkaraikulam, Nagapattinam",
+        "Incident_name": "Illegal Possession of Liquor",
+        "description": "The accused was found in possession of 110 liters of illicit liquor. Upon police arrival, she attempted to flee but was apprehended. The seized liquor was tested, found to be toxic, and destroyed as per legal procedures. A portion was sealed for evidence.",
+        "Witnesses": [
+          "Head Constable 1369 Vijayalakshmi",
+          "Constable 299 Anbarasan"
+        ]
+      },
+      "Investigating_officer": {
+        "Name": "Kaliyaperual G",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1)(aaa) r/w 4(1-A) TNP Act",
+        "District": "Nagapattinam",
+        "Police_station": "Nagapattinam Police Station"
+      }
+    },
+    {
+      "FIR.No": "67/2023",
+      "Date": "16-05-2023",
+      "Complainant_details": {
+        "Name": "R. Raja",
+        "Rank": "Assistant Inspector",
+        "Police_station": "Anai Police Station",
+        "District": "Krishnagiri"
+      },
+      "Accused_details": [
+        {
+          "Name": "Nagaraj",
+          "Age": 37,
+          "Father's Name": "Muniyappan",
+          "Address": "Pachaimuthu Nagar, Avadhanapatti Village, Agraharam Post, Krishnagiri Taluk & District",
+          "Contact_number": "unknown"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "16-05-2023 14:00",
+        "Location": "Pachaimuthu Nagar, Avadhanapatti",
+        "Incident_name": "Illegal Liquor Possession and Sale",
+        "description": "The accused was found in possession of 5 bottles of 180ml MC Brandy for illegal sale without government authorization. Upon seeing the police, he attempted to escape but was apprehended. The contraband was seized and destroyed at the scene as per legal procedures. The accused was arrested and brought to the station for further processing.",
+        "Witnesses": "Police personnel present"
+      },
+      "Investigating_officer": {
+        "Name": "R. Raja",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1)(a) TNP Act",
+        "District": "Krishnagiri",
+        "Police_station": "Anai Police Station"
+      }
+    },
+    {
+      "FIR.No": "90/2024",
+      "Date": "16-07-2024",
+      "Complainant_details": {
+        "Name": "A. Kausalya",
+        "Rank": "Assistant Inspector",
+        "Police_station": "V.K. Pudur Police Station"
+      },
+      "Accused_details": [
+        {
+          "Name": "Murugesan",
+          "Father's_Name": "Ayyappan",
+          "Age": "54/24",
+          "Address": "R.C Church Street, Rajagopalaperi"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "16-07-2024 20:30",
+        "Location": "Near Arundhathi Kulam, V.K. Pudur",
+        "Incident_name": "Public Consumption of Alcohol",
+        "description": "The accused was found consuming alcohol in a public place in view of the general public. Upon seeing the police, he attempted to flee, leaving behind an empty brandy bottle and a plastic tumbler. He was apprehended and confessed to the act. The items were seized in the presence of police witnesses as no public witnesses were available. The accused was arrested, and his relatives were informed. The case was registered under the TNP Act."
+      },
+      "Seized_items": [
+        {
+          "Item": "180ml Cordinal Brandy empty bottle",
+          "Quantity": "1"
+        },
+        {
+          "Item": "Plastic tumbler",
+          "Quantity": "1"
+        }
+      ],
+      "Investigating_officer": {
+        "Name": "A. Kausalya",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1) (J) TNP Act",
+        "District": "Tenkasi",
+        "Police_station": "V.K. Pudur Police Station"
+      }
+    },
+    {
+      "FIR.No": "22/2025",
+      "Date": "15-01-2025",
+      "Complainant_details": {
+        "Name": "Mala",
+        "Address": "28, Periyar Nagar East, Kulithalai, Kulithalai Taluk, Karur District",
+        "Contact_number": "9443703718"
+      },
+      "Accused_details": {
+        "Name": "Vijayaprasanna",
+        "Address": "Vaiyapuri Nagar, Karur",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "15-01-2025 15:50",
+        "Location": "Karur-Trichy NH Road, near Kalaimagal School, Kulithalai",
+        "Incident_name": "Road Traffic Accident",
+        "description": "Vijayaprasanna was driving the HYUNDAI i20 car at high speed, recklessly, and negligently when he collided with Bhaskar's two-wheeler, causing Bhaskar to fall and sustain multiple injuries.",
+        "Witnesses": "Sakthivel, Periyar Nagar, Kulithalai"
+      },
+      "Investigating_officer": {
+        "Name": "G. Saravanagiri",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "Sec 281 BNS, Sec 125(a) BNS",
+        "District": "Karur",
+        "Police_station": "Kulithalai Police Station"
+      }
+    },
+    {
+      "FIR.No": "14/2025",
+      "Date": "14-02-2025",
+      "Complainant_details": {
+        "Name": "Karthik",
+        "Address": "Emerald Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Baijur Rahman",
+        "Address": "78, Casellithurai Road, S.M. Nagar, Mettupalayam, Coimbatore",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "14-02-2025 15:30",
+        "Location": "Emerald Bazaar",
+        "Incident_name": "Illegal Tobacco Possession",
+        "description": "The accused was found in possession of banned tobacco products, including 300 packets of Hans, 1330 packets of Vimal Pan Masala, 900 packets of V-1 Tobacco, and 32 packets of Cool Lip, which he intended to sell to local shops.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Karthik",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "Sec 6 r/w 24(1) COTPA Act",
+        "District": "Udhagai",
+        "Police_station": "Emerald Police Station"
+      }
+    },
+    {
+      "FIR.No": "88/2024",
+      "Date": "01-05-2024",
+      "Complainant_details": {
+        "Name": "B. Lenin",
+        "Address": "Annamalai Nagar Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Balasubramaniam",
+        "Address": "North Street, Koothankoil, Chidambaram-TK",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "01-05-2024 11:10",
+        "Location": "Behind Koothankoil Community Hall",
+        "Incident_name": "Illegal Liquor Possession",
+        "description": "The accused was found in possession of 5 bottles of 180ml HONEY DAY Tamil Nadu government liquor brandy, intended for illegal sale without a valid license or permit.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "B. Lenin",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "Sec 4(1)(a) TNP Act",
+        "District": "Chidambaram",
+        "Police_station": "Annamalai Nagar Police Station"
+      }
+    },
+    {
+      "FIR.No": "77/2023",
+      "Date": "18-03-2023",
+      "Complainant_details": {
+        "Name": "Sathyapriya",
+        "Address": "Easwariamman Kovil Street, T.N. Puthukudi, Puliyangudi",
+        "Contact_number": "9952426299"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-03-2023 08:00",
+        "Location": "Easwariamman Kovil Street, T.N. Puthukudi, Puliyangudi",
+        "Incident_name": "Boy Missing",
+        "description": "The complainant's son, Karunesh, went missing after being left at home to play with neighboring children while she and her mother went to work. Upon returning at 17:00, she found her son missing and was unable to locate him despite searching the area and asking relatives.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "P. Velmurugan",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "Boy Missing",
+        "District": "Sivagiri",
+        "Police_station": "Puliyangudi Police Station"
+      }
+    },
+    {
+      "FIR.No": "99/2022",
+      "Date": "03-03-2022",
+      "Complainant_details": {
+        "Name": "M. Shankar",
+        "Address": "Cheyyar Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "unknown",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "03-03-2022 11:00",
+        "Location": "Cheyyar Market",
+        "Incident_name": "Illegal Alcohol Sale",
+        "description": "The accused was found selling government liquor at a higher price without proper authorization. Upon interrogation, he admitted to the crime. Police seized 5 bottles of 180ML XXX Diamond Rum and destroyed them at the scene due to their open condition.",
+        "Witnesses": "Police Witnesses"
+      },
+      "Investigating_officer": {
+        "Name": "M. Shankar",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "4(1)(a) TNP Act",
+        "District": "Cheyyar",
+        "Police_station": "Cheyyar Police Station"
+      }
+    },
+    {
+      "FIR.No": "17/2021",
+      "Date": "23-01-2021",
+      "Complainant_details": {
+        "Name": "R. Karthikairaja",
+        "Address": "Kadaladi Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Mohan",
+        "Father's Name": "Kandavel",
+        "Age": 46,
+        "Address": "Sathankudi (E), Kadaladi Devarnagar",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "23-01-2021 18:45",
+        "Location": "Mangalam Road, near Kalikovil Shed, Kadaladi",
+        "Incident_name": "Illegal Alcohol Possession",
+        "description": "The accused was found in possession of 20 bottles (180ML) of ACCORD BRANDY without any government authorization. Upon interrogation, he admitted to storing them for illegal sale. The police seized and destroyed the bottles at the scene.",
+        "Witnesses": "Police Witnesses"
+      },
+      "Investigating_officer": {
+        "Name": "R. Karthikairaja",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "4(1)(a) TNP Act",
+        "District": "Kadaladi",
+        "Police_station": "Kadaladi Police Station"
+      }
+    },
+    {
+      "FIR.No": "34/2021",
+      "Date": "13-01-2021",
+      "Complainant_details": {
+        "Name": "M. Rajesh",
+        "Address": "Nagoor Police Station",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Sivan @ Sivachandran",
+        "Father's Name": "Mahamani",
+        "Age": 28,
+        "Address": "Seva Bharathi, Panangudi",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "13-01-2021 11:30",
+        "Location": "Panangudi Muttam Main Road, Nagoor",
+        "Incident_name": "Illegal Liquor Possession",
+        "description": "The accused was found in possession of 5 liters of illicit liquor (Pandi Arrack) in a polythene bag without government authorization. The liquor was seized and destroyed at the scene in the presence of police witnesses.",
+        "Witnesses": "Police Witnesses"
+      },
+      "Investigating_officer": {
+        "Name": "M. Rajesh",
+        "Rank": "Assistant Inspector",
+        "IPC_section": "4(1)(a) TNP Act",
+        "District": "Nagapattinam",
+        "Police_station": "Nagoor Police Station"
+      }
+    },
+    {
+      "FIR.No": "44/2020",
+      "Date": "29-02-2020",
+      "Complainant_details": {
+        "Name": "A.P. Mohanraj",
+        "Father's Name": "A.S. Palanisami",
+        "Age": 50,
+        "Address": "No. 36/6, Vaiyapuri Chetty Street, Ammapet, Salem-3",
+        "Contact_number": "8637604448"
+      },
+      "Accused_details": {
+        "Name": "Nithyanandam",
+        "Father's Name": "Kathirvel",
+        "Address": "Tiruchirappalli",
+        "Vehicle": {
+          "Type": "Hero Super Splendor",
+          "Registration_No": "TN 39 BY 7577"
+        }
+      },
+      "Victim_details": {
+        "Name": "Prithiv Gautam",
+        "Father's Name": "A.P. Mohanraj",
+        "Age": "Unknown",
+        "Address": "No. 36/6, Vaiyapuri Chetty Street, Ammapet, Salem-3",
+        "Injury_details": "Severe head and left hand injuries",
+        "Hospital": "VIMS Hospital, Seeragapadi, Salem"
+      },
+      "Incident_details": {
+        "Date_time": "29-02-2020 18:15",
+        "Location": "Near Vinayaka Mission Kirupananda Variyar Arts & Science College, Salem",
+        "Incident_name": "Road Traffic Accident",
+        "description": "The accused, riding a Hero Super Splendor bike at high speed and negligently, collided with the victim's Bullet bike (TN 54 M 1257), causing severe injuries to the victim and damage to both vehicles.",
+        "Witnesses": "Unknown"
+      },
+      "Investigating_officer": {
+        "Name": "M. Manoharan",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "279, 337 IPC",
+        "District": "Salem",
+        "Police_station": "Attayampatty Police Station"
+      }
+    },
+    {
+      "FIR.No": "47/2020",
+      "Date": "21-02-2020",
+      "Complainant_details": {
+        "Name": "V. Divya",
+        "Age": 25,
+        "Husband's Name": "Veeramani",
+        "Address": "Pudutheru, Aathur, Vanduvaancheri",
+        "Contact_number": "9003761447"
+      },
+      "Accused_details": [
+        {
+          "Name": "Murugan",
+          "Relation": "Neighbor"
+        },
+        {
+          "Name": "Ambika",
+          "Relation": "Murugan's Wife"
+        },
+        {
+          "Name": "Mariammal",
+          "Relation": "Murugan's Daughter"
+        },
+        {
+          "Name": "Gayathri",
+          "Relation": "Murugan's Daughter"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "19-02-2020 11:00",
+        "Location": "Pudutheru, Aathur, Vanduvaancheri",
+        "Incident_name": "Physical Assault and Abuse",
+        "description": "The accused Murugan demolished his old house using a JCB and dumped the debris in the complainant’s backyard. When the complainant’s husband questioned this, Murugan verbally abused him. Subsequently, Ambika, Mariammal, and Gayathri joined in, verbally abusing the complainant with derogatory words, pulling her hair, assaulting her, and pushing her to the ground.",
+        "Witnesses": "Unknown"
+      },
+      "Investigating_officer": {
+        "Name": "Deepanathan",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "294(b), 352 IPC",
+        "District": "Thiruvidaimaruthur",
+        "Police_station": "Nachiyar Kovil Police Station"
+      }
+    },
+    {
+      "FIR.No": "59/2019",
+      "Date": "15-02-2019",
+      "Complainant_details": {
+        "Name": "Thiyagrajan",
+        "Police_station": "Mohanur Police Station",
+        "District": "Namakkal"
+      },
+      "Accused_details": {
+        "Name": "Raja Velan",
+        "Alias": "Unknown",
+        "Address": "Unknown"
+      },
+      "Incident_details": {
+        "Date_time": "15-02-2019 03:30",
+        "Location": "Gandhamalai Murugan Temple, Mohanur-Namakkal Road",
+        "Incident_name": "Suspicious Activity and Evading Police",
+        "description": "The accused was found sitting in a suspicious manner in the dark, covering his head with a cloth. When approached by the police, he attempted to flee but was surrounded and captured. Upon questioning, he provided inconsistent details about his identity. Suspecting his involvement in a potential crime, he was arrested and brought to the station for further investigation.",
+        "Witnesses": "Police party on patrol"
+      },
+      "Investigating_officer": {
+        "Name": "Thiyagrajan",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "41(1)(a) CrPC",
+        "Court": "Judicial Magistrate No-II, Namakkal"
+      }
+    },
+    {
+      "FIR.No": "68/2019",
+      "Date": "29-03-2019",
+      "Complainant_details": {
+        "Name": "K. Sengodi",
+        "Age": 33,
+        "Spouse": "Karthik",
+        "Address": "Soundarapuram, Kullalakundu (PO)",
+        "Phone": "9597114069"
+      },
+      "Missing_person_details": [
+        {
+          "Name": "Abinaya",
+          "Age": 17,
+          "Relationship": "Daughter of the complainant"
+        },
+        {
+          "Name": "Kalyani",
+          "Age": "Not specified",
+          "Relationship": "Daughter of Kannan from Bharathipuram"
+        },
+        {
+          "Name": "Chithra",
+          "Age": "Not specified",
+          "Relationship": "Wife of Bhaskaran"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "29-03-2019 08:00",
+        "Location": "Kullalakundu, Soundarapuram",
+        "Incident_name": "Women & Girl Missing",
+        "description": "The complainant's daughter Abinaya, who had recently completed her +2 exams, was friendly with Kalyani and Chithra. On 28-03-2019, Abinaya and Kalyani went out to search for jobs and returned home. On 29-03-2019, when the complainant returned from work at 10:00 AM, she found her daughter missing. Upon inquiry, she learned that Abinaya, Kalyani, and Chithra had left together, and their whereabouts were unknown.",
+        "Witnesses": [
+          {
+            "Name": "M. Vijayakanth",
+            "Father": "Muthukaruppan",
+            "Address": "Kaliamman Kovil Street, T. Vadipatti, Madurai DT",
+            "Phone": "9095403036"
+          }
+        ]
+      },
+      "Investigating_officer": {
+        "Name": "A. Vijayapandian",
+        "Rank": "Sub-Inspector",
+        "Police_Station": "Ammayanaickanur Police Station",
+        "District": "Dindigul",
+        "IPC_section": "Women & Girl Missing",
+        "Court": "Judicial Magistrate Court, Nilakkottai"
+      }
+    },
+    {
+      "FIR.No": "77/2018",
+      "Date": "16-04-2018",
+      "Complainant_details": {
+        "Name": "G. Nirmala",
+        "Age": 50,
+        "Spouse": "C. Manoharan",
+        "Address": "Kaithakkal, Sutturathalavilai Veedu, Pinandode, Kulasekaram (PO)",
+        "Phone": "9789758051"
+      },
+      "Accused_details": [
+        {
+          "Name": "Girija",
+          "Age": 45,
+          "Spouse": "Rose Isaac",
+          "Address": "Muzhukkodu, Arumanai"
+        },
+        {
+          "Name": "Rose Isaac",
+          "Age": 52,
+          "Father": "Alphonse",
+          "Address": "Muzhukkodu, Arumanai"
+        }
+      ],
+      "Incident_details": {
+        "Date_time": "03-06-2017 11:00",
+        "Location": "Muzhukkodu, Arumanai",
+        "Incident_name": "Fraud and Criminal Breach of Trust",
+        "description": "The complainant's son Sujith, a Civil Engineering graduate, was preparing to go abroad for employment. The accused approached the complainant and promised a well-paying job overseas. Trusting them, the complainant and her family paid ₹2,50,000 along with Sujith’s passport on 03-06-2017. The accused assured a job within 10 days, but after a delay, they sent Sujith to Qatar on 13-07-2017, claiming he had secured a Civil Engineer job with a ₹65,000 salary. Upon arrival, Sujith realized the provided job address did not exist. After multiple complaints, no alternative job was arranged, and Sujith returned to India. When the complainant confronted the accused, they refused to return the money and threatened them.",
+        "Witnesses": [
+          {
+            "Name": "C. Sundaran",
+            "Father": "Chellappanpillai",
+            "Relationship": "Complainant's Brother"
+          },
+          {
+            "Name": "Sujith",
+            "Age": 29,
+            "Relationship": "Complainant's Son"
+          }
+        ]
+      },
+      "Investigating_officer": {
+        "Name": "SI Joseph Raj",
+        "Rank": "Sub-Inspector",
+        "Police_Station": "Arumanai Police Station",
+        "District": "Kanyakumari",
+        "IPC_section": "406, 420 IPC",
+        "Court": "Judicial Magistrate Court -1, Kulithurai"
+      }
+    },
+    {
+      "FIR.No": "49/2018",
+      "Date": "15-11-2018",
+      "Complainant_details": {
+        "Name": "Hema Malini",
+        "Age": 44,
+        "Spouse": "Murugan",
+        "Address": "Labour Colony, Keeriparai",
+        "Phone": "9445879277"
+      },
+      "Accused_details": {
+        "Name": "Murugan",
+        "Age": 54,
+        "Occupation": "Painting work",
+        "Cause_of_death": "Hanging",
+        "Medical_History": "Chronic stomach pain"
+      },
+      "Incident_details": {
+        "Date_time": "15-11-2018 15:00",
+        "Location": "Murugan’s Residence, Keeriparai",
+        "Incident_name": "Suicide by Hanging",
+        "Description": "The complainant, Hema Malini, left home at 11:30 AM to visit Arumanallur Cooperative Bank for a group loan, after giving medicine to her husband, who suffered from chronic stomach pain. Her son was also away. When they returned at 3:00 PM, they found the house locked from inside. With the help of a neighbor, Dinesh, they broke the door and found Murugan hanging from a wooden beam using a thread rope. Hema Malini stated there was no suspicion regarding the death and requested appropriate action.",
+        "Witnesses": [
+          {
+            "Name": "Son of the Deceased",
+            "Relationship": "Deceased’s Son"
+          },
+          {
+            "Name": "Dinesh",
+            "Relationship": "Neighbor"
+          }
+        ]
+      },
+      "Investigating_officer": {
+        "Name": "R. Gnana Selvam",
+        "Rank": "Sub-Inspector",
+        "Police_Station": "Keeriparai Police Station",
+        "District": "Kanyakumari",
+        "IPC_section": "174 CrPC",
+        "Court": "Judicial Magistrate Court - II, Boothapandi"
+      }
+    },
+    {
+      "FIR.No": "20/2017",
+      "Date": "18-01-2017",
+      "Complainant_details": {
+        "Name": "Aasirvadham",
+        "Age": 65,
+        "Father's Name": "David",
+        "Address": "South Street, Maruthakulam Village, Tirunelveli District, Now at Mamandur"
+      }
+    },
+    {
+      "Incident_details": {
+        "Date_time": "16-01-2017 17:00",
+        "Location": "Thanthai Periyar Hotel, Mamandur",
+        "Incident_name": "Verbal Abuse and Harassment",
+        "Description": "While Santosh Giri was disposing of leaves outside the hotel, Murali, S/o Srinivasan from Mamandur, verbally abused him using offensive words, questioning why an outsider was working there. Upon hearing the commotion, others gathered, and Murali fled the scene.",
+        "Witnesses": "Bystanders at the hotel"
+      },
+      "Accused_details": {
+        "Name": "Murali",
+        "Father's Name": "Srinivasan",
+        "Address": "Mamandur"
+      },
+      "Investigating_officer": {
+        "Name": "D. Aasirvadham",
+        "Rank": "Sub-Inspector",
+        "Police_Station": "D4 Padalam Police Station",
+        "District": "Kancheepuram",
+        "IPC_section": "294(b) IPC",
+        "Court": "Judicial Magistrate Court - I, Chengalpattu"
+      }
+    },
+    {
+      "FIR.No": "22/2017",
+      "Date": "13-01-2017",
+      "Complainant_details": {
+        "Name": "Mukendran",
+        "Address": "5/100, Surankottai East, Surankottai Post, Ramanathapuram Taluk, Ramanathapuram District",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Nagaraj, Prema, Jayakannu, Anand",
+        "Address": "unknown",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "18-10-2016 15:00",
+        "Location": "Thiruppullani Government Higher Secondary School and Primary Education Office, Ramanathapuram",
+        "Incident_name": "Verbal Abuse, Caste Discrimination, and Death Threat",
+        "description": "Mukendran, a teacher, was accused of sexual harassment based on a false petition. When he visited the school and the primary education office to clarify the allegations, the headmistress's husband, Nagaraj, verbally abused him, issued death threats, and insulted his caste. The headmistress, Prema, also claimed that the false petition was filed with the knowledge of senior officials and threatened him.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "A. Venkatesan",
+        "Rank": "Inspector",
+        "IPC_section": "294(b), 506(1) IPC r/w 3(1)(s) SC/ST Act (POA) 2015",
+        "District": "Ramanathapuram",
+        "Police_station": "B2 Bazaar Police Station"
+      }
+    },
+    {
+      "FIR.No": "43/2024",
+      "Date": "22-01-2024",
+      "Complainant_details": {
+        "Name": "D. Naveenkumar",
+        "Address": "175, Puthuthottam, Salavaikkal Palayam, Nagadevam Palayam Post, Gobichettipalayam Taluk, Erode District",
+        "Contact_number": "unknown"
+      },
+      "Accused_details": {
+        "Name": "Palanichamy",
+        "Address": "Dharapuram",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "21-01-2024 20:00",
+        "Location": "Near Ram Nagar Indian Petrol Pump, Thenvadal Road, Dharapuram",
+        "Incident_name": "Vehicle Accident",
+        "description": "While Naveenkumar and his friends were walking on Thenvadal Road towards Alangiyam, Dharapuram, a three-wheeler mini-door vehicle (TN 57 V 6134) driven by Palanichamy, under the influence of alcohol and at high speed, negligently hit Naveenkumar and Tamilarasan. As a result, Naveenkumar sustained a head injury, and Tamilarasan suffered injuries on his left knee and right knee. They were taken to Dharapuram Government Hospital by private ambulance with the help of Dhanasekar and Venkatesan.",
+        "Witnesses": "Dhanasekar, Venkatesan"
+      },
+      "Investigating_officer": {
+        "Name": "Sakthivel",
+        "Rank": "Head Constable",
+        "IPC_section": "279, 337 IPC",
+        "District": "Tiruppur",
+        "Police_station": "Dharapuram Police Station"
+      }
+    },
+    {
+      "FIR.No": "31/2024",
+      "Date": "10-03-2024",
+      "Complainant_details": {
+        "Name": "R. Srinivasan",
+        "Rank": "Sub-Inspector",
+        "Police_station": "Yelagiri Hills Police Station",
+        "District": "Tirupattur"
+      },
+      "Accused_details": {
+        "Name": "Prakash",
+        "Age": 65,
+        "Father's_Name": "Chinnanaian",
+        "Address": "Kottaiyur (K), Yelagiri Hills, Tirupattur District",
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "10-03-2024 16:00",
+        "Location": "Punganur Bus Stop, Yelagiri Hills",
+        "Incident_name": "Public Nuisance Due to Alcohol Consumption",
+        "description": "During a routine crime prevention patrol, the police found the accused, Prakash, consuming Old Chief Rum in a public place, causing a disturbance. Despite warnings, he continued drinking, leading to his arrest at 16:15. His relatives were informed, and he was brought to the police station by 16:30.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "R. Srinivasan",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "4(1)(j) TNP Act & 510 IPC",
+        "District": "Tirupattur",
+        "Police_station": "Yelagiri Hills Police Station"
+      }
+    },
+    {
+      "FIR.No": "52/2024",
+      "Date": "04-02-2024",
+      "Complainant_details": {
+        "Name": "R. Alagumanickam",
+        "Age": 47,
+        "Husband's_Name": "Ravi",
+        "Address": "South Street, Manickapuram, Kamarajpuram (Post), Bodinayakanur Taluk",
+        "Contact_number": "8778464987"
+      },
+      "Accused_details": {
+        "Name": "Kalimuthu Subramaniam",
+        "Address": "Gopalapuram",
+        "Vehicle_details": {
+          "Type": "Four-Wheeler (Force Trax Cruiser)",
+          "Registration_No": "TN 60 AE 3156"
+        },
+        "Contact_number": "unknown"
+      },
+      "Incident_details": {
+        "Date_time": "04-02-2024 15:30",
+        "Location": "Near Udhayam Bakery, PC Patti",
+        "Incident_name": "Road Traffic Accident",
+        "description": "The complainant's father, Kalimuthu, was walking home after buying chicken when the accused, driving at high speed and negligently, hit him with his vehicle. Kalimuthu suffered a head injury and nasal bleeding. Nearby people helped and called an ambulance, which admitted him to Theni Government Medical College Hospital. The complainant and her sister are assisting him.",
+        "Witnesses": "unknown"
+      },
+      "Investigating_officer": {
+        "Name": "N. Packiam",
+        "Rank": "Sub-Inspector",
+        "IPC_section": "279, 337 IPC",
+        "District": "Theni",
+        "Police_station": "Palani Chettipatti Police Station"
+      }
+    }
+  ]
+}

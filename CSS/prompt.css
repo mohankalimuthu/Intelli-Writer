@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+    background-image: url('/Images/bg2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    backdrop-filter: blur(10px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+header{
+    background-color: rgb(75, 0, 130, 0.3);
+    backdrop-filter: blur(10px);
+    width: 100%;
+    padding: 30px 10px;
+}
+header div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+header img{
+    height: 100px;
+}
+
+.section {
+    background-color: rgba(255, 255, 255, 0.2); /* Transparent white background */
+    backdrop-filter: blur(15px); /* Glassmorphism effect */
+    border-radius: 15px;
+    padding: 20px;
+    min-width: 80vw;
+    width: 100px;
+    /* text-align: center; */
+    margin: 1.5rem auto;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #45a049; */
+}
+
+form{
+    min-width: 70vw;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    row-gap: 75px;
+    /* background-color: #45a049; */
+}
+h1, h3 {
+    text-align: center;
+    /* color: white; */
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+
+label {
+    font-weight: 600;
+    color: white;
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select, textarea {
+    width: 90%;
+    min-width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.295); /* Light background for inputs */
+    font-size: 1rem;
+    color: #141313;
+
+}
+textarea{
+    min-height: 100px;
+    resize: none;
+    width: 1090px;
+}
+
+
+
+select {
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #333;
+}
+
+select option {
+    background-color: #fff;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    margin: auto;
+}
+
+.form-group input,
+.form-group select {
+    font-size: 1rem;
+}
+
+.form-footer {
+    text-align: center;
+    /* flex: 1; */
+    flex-grow: inherit;
+}
+
+.form-footer button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-footer button:hover {
+    background-color: #121312;
+}
+
+
+@media (width< 600px) {
+    .section{
+        width: 80vw;
+    }
+    input, select {
+        width: 100%;
+    }
+}

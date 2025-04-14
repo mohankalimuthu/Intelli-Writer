@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate FIR</title>
+    <link rel="stylesheet" href="/output.css">
+</head>
+<body>
+    <header>
+        <div class="navbar header-container">
+            <img src="/Images/police_logo-removebg-preview.png" alt="Police Logo" class="logo">
+            <h1>FIR Generation System</h1>
+        </div>
+    </header>
+
+    <main>
+        <section class="generate-container">
+            <div class="generate">
+                <textarea id="firDetails" class="input-prompt" placeholder="Generated fir"></textarea>
+                <!-- <button class="generate-btn">Generate</button> -->
+                
+            </div>
+        </section>
+
+        <section class="actions">
+            <!-- <button class="edit-btn">Edit Prompt</button> -->
+            <button class="confirm-btn" onclick="downloadFIR()">Download</button>
+        </section>
+    </main>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const firData = localStorage.getItem("firData");
+            if (firData) {
+                document.getElementById("firDetails").innerHTML = firData;
+            } else {
+                document.getElementById("firDetails").innerHTML = "No FIR data available.";
+            }
+        });
+        function printFIR() {
+            var printContent = document.getElementById("firDetails").innerHTML;
+            var originalContent = document.body.innerHTML;
+            document.body.innerHTML = printContent;
+            window.print();
+            document.body.innerHTML = originalContent;
+        }
+        function downloadFIR() {
+            var text = document.getElementById("firDetails").value;
+            var blob = new Blob([text], { type: "application/msword" });
+            var link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "FIR_Document.doc";
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        function goBack() {
+            window.history.back();
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIR Register</title>
+    <link rel="stylesheet" href="/lr.css">
+</head>
+<body>
+    <header>
+        <div class="navbar header-container">
+            <img src="/Images/police_logo-removebg-preview.png" alt="Police Logo" class="logo">
+            <h1>FIR Generation System</h1>
+        </div>
+    </header>
+    <div class="login-container">
+        <h2>Register</h2>
+        <form id="registerForm">
+            <div class="input-group">
+                <label for="useremail">Email</label>
+                <input type="email" id="useremail" name="useremail" placeholder="Enter your email" required>
+            </div>
+            <div class="input-group">
+                <label for="username">Username</label>
+                <input type="text" id="username" placeholder="Enter your username" required oninput="validateUsername()">
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Enter your password" required oninput="validatePassword()">
+            </div>
+            <div class="input-group">
+                <label for="confirm-password">Confirm Password</label>
+                <input type="password" id="confirm-password" placeholder="Confirm your password" required>
+            </div>
+            <div>
+                <input type="checkbox" id="check" onclick="togglePassword()"> Show Password 
+            </div>
+            <div class="input-group">
+                <label for="captcha">Captcha</label>
+                <input type="text" id="captcha" name="captcha" placeholder="Enter the captcha" required>
+            </div>
+            <h3 id="captchaText"></h3>
+            <button type="button" class="btn2" onclick="generateCaptcha()">🔁</button>
+            <div class="input-group">
+                <button type="submit">Register Now</button>
+                <p class="register-link">Already have an account? <a href="/login.html" class="register">Login here</a></p>
+            </div>
+        </form>
+    </div>
+    
+    <script>
+        function togglePassword() {
+            var passwordField = document.getElementById("password");
+            var confirmPasswordField = document.getElementById("confirm-password");
+            var type = passwordField.type === "password" ? "text" : "password";
+            passwordField.type = type;
+            confirmPasswordField.type = type;
+        }
+
+        function generateCaptcha() {
+            const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvwxyz!@#$%*?';
+            let captcha = '';
+            for (let i = 0; i < 7; i++) {
+                captcha += chars.charAt(Math.floor(Math.random() * chars.length));
+            }
+            document.getElementById('captchaText').innerText = captcha;
+        }
+        window.onload = generateCaptcha;
+
+        function validateUsername() {
+            const username = document.getElementById('username');
+            const usernameRegex = /^[a-zA-Z0-9._]+$/;
+            username.setCustomValidity(usernameRegex.test(username.value) ? "" : "Username can only contain letters, numbers, dots, and underscores.");
+        }
+
+        function validatePassword() {
+            const password = document.getElementById('password');
+            const passwordRegex = /^[a-zA-Z0-9._]+$/;
+            password.setCustomValidity(passwordRegex.test(password.value) ? "" : "Password can only contain letters, numbers, dots, and underscores.");
+        }
+
+        document.getElementById("registerForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            
+            const useremail = document.getElementById("useremail").value;
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+            const confirmPassword = document.getElementById("confirm-password").value;
+            const enteredCaptcha = document.getElementById("captcha").value;
+            const generatedCaptcha = document.getElementById("captchaText").innerText;
+            
+            if (password !== confirmPassword) {
+                alert("Passwords do not match.");
+                return;
+            }
+            
+            if (enteredCaptcha !== generatedCaptcha) {
+                alert("Captcha does not match. Please try again.");
+                return;
+            }
+            
+            const data = { useremail, username, password };
+            
+            fetch("http://127.0.0.1:5000/register", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message || "Error occurred!");
+                if (data.redirect) {
+                    window.location.href = data.redirect;
+                }
+            })
+            .catch(error => console.error("Fetch Error:", error));
+        });
+    </script>
+</body>
+</html>

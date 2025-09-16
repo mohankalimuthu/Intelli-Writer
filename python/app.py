@@ -8,7 +8,7 @@ from datetime import datetime
 
 
 
-genai.configure(api_key="AIzaSyA-bvO22mIvxWGKrM_ZTHHCnN52htvsWF0")
+genai.configure(api_key="##########")
 
 model = genai.GenerativeModel("gemini-1.5-pro")
 

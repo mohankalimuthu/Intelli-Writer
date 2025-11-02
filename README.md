@@ -8,3 +8,5 @@ Gemini API | ![Gemini](https://img.shields.io/badge/Gemini-1.5%20Pro-purple?logo
 FastAPI | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 
 https://pypi.org
+
+innum mudikala
